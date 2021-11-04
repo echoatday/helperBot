@@ -55,7 +55,7 @@ client.on('messageCreate', message => {
 		message.channel.send(rollDice(theMessage));
 	}
 	else if(theMessage.startsWith('!help')) {
-		message.channel.send('Valid commands: !time, !roll, !hello');
+		message.channel.send('Valid commands: !time, !roll');
 	}
 	else if (message.content === '!hello') {
     	message.channel.send('Fuck every little annoying creature on this planet and fuck you.');
