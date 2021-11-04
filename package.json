@@ -1,0 +1,14 @@
+{
+    "name": "helper-bot",
+    "version": "0.1",
+    "description": "Here to Help",
+    "main": "bot.js",
+    "author": "reeceroni",
+    "dependencies": {
+        "@discordjs/rest": "^0.1.0-canary.0",
+        "discord-api-types": "^0.24.0",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^13.3.1",
+        "winston": "^3.3.3"
+    }
+}
