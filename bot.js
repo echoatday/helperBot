@@ -11,15 +11,20 @@ function unixTimer(theMessage) {
 	theMessage = theMessage.replace('!time ','').toLowerCase();
 	theMessage = theMessage.replace('nzst','+12');
 	theMessage = theMessage.replace('nzt','+12');
+	const timeEmbed = new MessageEmbed();
 	var theDate = new Date(theMessage);
 	unixTime = (theDate.getTime() / 1000).toFixed(0);
 	if(unixTime === 'NaN') {
-		theMessage = 'Valid format: !time may 01 2021 10:30 pm est'
+		timeEmbed.color = '#ff0000';
+		timeEmbed.title = 'Incorrect Input'
+		timeEmbed.description = 'Valid Format: !time may 01 2021 10:30 pm est';
 	}
 	else {
-		theMessage = '<t:' + unixTime + '>';
+		timeEmbed.color = '#00ff00';
+		timeEmbed.title = '<t:' + unixTime + ':D>';
+		timeEmbed.description = '<t:' + unixTime + ':t>';
 	}
-	return theMessage;
+	return ({embeds: [timeEmbed]});
 }
 
 //!roll
@@ -33,7 +38,12 @@ function rollDice(theMessage) {
 		);
 	var mathroll;
 	var numbers;
+	var rolls = '│ ';
+	var total = 0;
+	var modifier = '│ ';
+	var finalTotal = '│ ';
 
+	//split values into an array of numbers
 	if (theMessage.includes('+')) {
 		mathroll = theMessage.split('+');
 		numbers = mathroll[0].split('d');
@@ -47,46 +57,39 @@ function rollDice(theMessage) {
 		numbers = mathroll.split('d');
 	}
 
-	var output = '│ ';
-	var total = 0;
-	modifier = '│ ';
-	var finalTotal = '│ ';
+	//construct output for 'rolls' and 'total'
 	for (let i = 0; i < parseInt(numbers[0]); i++) {
 		currentNumber = Math.floor( Math.random() * parseInt(numbers[1]) ) + 1;
-		output = output + currentNumber;
-		if(i !== parseInt(numbers[0]) - 1) { output = output + ' | ' }
+		rolls = rolls + currentNumber;
+		if(i !== parseInt(numbers[0]) - 1) { rolls = rolls + ' | ' }
 		total += parseInt(currentNumber);
 	}
 
+	//update total based on modifier value
 	if (theMessage.includes('+')) {
 		total = total + parseInt(mathroll[1]);
-		// output = output + " +" + parseInt(mathroll[1]) + ", TOTAL: " + finalTotal;
 		modifier = modifier + '+' + parseInt(mathroll[1]);
-
 	}
 	else if (theMessage.includes('-')) {
 		total = total - parseInt(mathroll[1]);
-		// output = output + " -" + parseInt(mathroll[1]) + ", TOTAL: " + finalTotal;
 		modifier = modifier + '-' + parseInt(mathroll[1]);
 	}
-	else {
-		// output = output + "TOTAL: " + total;
-
-	}
-
 	finalTotal = finalTotal + total;
 
-	if(isNaN(total)) {
-		theMessage = 'Valid format: !roll 2d6+1';
-		return theMessage;
+	//final output
+	if(total == 0) {
+		rollEmbed.color = '#ff0000';
+		rollEmbed.title = 'Incorrect Input'
+		rollEmbed.description = 'Valid Format: !roll 2d6+1';
+		rollEmbed.fields = [];
 	}
 	else {
-		// theMessage = output;
-		rollEmbed.fields[0].value = output;
+		rollEmbed.color = '#00ff00';
+		rollEmbed.fields[0].value = rolls;
 		rollEmbed.fields[1].value = modifier;
 		rollEmbed.fields[2].value = finalTotal;
-		return ({embeds: [rollEmbed]});
 	}
+	return ({embeds: [rollEmbed]});
 }
 
 
