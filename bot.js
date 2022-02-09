@@ -11,18 +11,22 @@ function unixTimer(theMessage) {
 	theMessage = theMessage.replace('!time ','').toLowerCase();
 	theMessage = theMessage.replace('nzst','+12');
 	theMessage = theMessage.replace('nzt','+12');
-	const timeEmbed = new MessageEmbed();
+	const timeEmbed = new MessageEmbed()
+		.addFields(
+			{name: 'Date', value: 'Time', inline: true},
+		);
 	var theDate = new Date(theMessage);
 	unixTime = (theDate.getTime() / 1000).toFixed(0);
 	if(unixTime === 'NaN') {
 		timeEmbed.color = '#ff0000';
 		timeEmbed.title = 'Incorrect Input'
 		timeEmbed.description = 'Valid Format: !time may 01 2021 10:30 pm est';
+		rollEmbed.fields = [];
 	}
 	else {
 		timeEmbed.color = '#00ff00';
-		timeEmbed.title = '<t:' + unixTime + ':D>';
-		timeEmbed.description = '<t:' + unixTime + ':t>';
+		timeEmbed.fields[0].name = '<t:' + unixTime + ':D>';
+		timeEmbed.fields[0].value = '<t:' + unixTime + ':t>';
 	}
 	return ({embeds: [timeEmbed]});
 }
@@ -91,7 +95,6 @@ function rollDice(theMessage) {
 	}
 	return ({embeds: [rollEmbed]});
 }
-
 
 // command listener
 client.on('messageCreate', message => {
