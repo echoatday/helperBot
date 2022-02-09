@@ -1,4 +1,4 @@
-const { Client, Intents } = require('discord.js');
+const { Client, Intents, MessageEmbed } = require('discord.js');
 const config = require('./config.json');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
@@ -6,8 +6,7 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-
-//functions
+//!time
 function unixTimer(theMessage) {
 	theMessage = theMessage.replace('!time ','').toLowerCase();
 	theMessage = theMessage.replace('nzst','+12');
@@ -23,29 +22,75 @@ function unixTimer(theMessage) {
 	return theMessage;
 }
 
+//!roll
 function rollDice(theMessage) {
 	theMessage = theMessage.replace('!roll ','');
-	const numbers = theMessage.split('d');
-	var output = '';
-	var total = 0;
-	for (let i = 0; i < parseInt(numbers[0]); i++) {
-		currentNumber = Math.floor( Math.random() * parseInt(numbers[1]) ) + 1;
-		output = output + currentNumber + ", ";
-		total += parseInt(currentNumber);
-	}
-	output = output + "TOTAL: " + total;
+	const rollEmbed = new MessageEmbed()
+		.addFields(
+			{name: '│ Rolls', value: 'invalid', inline: true},
+			{name: '│ Mods', value: 'invalid', inline: true},
+			{name: '│ Total', value: 'invalid', inline: true},
+		);
+	var mathroll;
+	var numbers;
 
-	if(output === 'TOTAL: 0') {
-		theMessage = 'Valid format: !roll 2d6';
+	if (theMessage.includes('+')) {
+		mathroll = theMessage.split('+');
+		numbers = mathroll[0].split('d');
+	}
+	else if (theMessage.includes('-')) {
+		mathroll = theMessage.split('-');
+		numbers = mathroll[0].split('d');
 	}
 	else {
-		theMessage = output;
+		mathroll = theMessage;
+		numbers = mathroll.split('d');
 	}
-	return theMessage;
+
+	var output = '│ ';
+	var total = 0;
+	modifier = '│ ';
+	var finalTotal = '│ ';
+	for (let i = 0; i < parseInt(numbers[0]); i++) {
+		currentNumber = Math.floor( Math.random() * parseInt(numbers[1]) ) + 1;
+		output = output + currentNumber;
+		if(i !== parseInt(numbers[0]) - 1) { output = output + ' | ' }
+		total += parseInt(currentNumber);
+	}
+
+	if (theMessage.includes('+')) {
+		total = total + parseInt(mathroll[1]);
+		// output = output + " +" + parseInt(mathroll[1]) + ", TOTAL: " + finalTotal;
+		modifier = modifier + '+' + parseInt(mathroll[1]);
+
+	}
+	else if (theMessage.includes('-')) {
+		total = total - parseInt(mathroll[1]);
+		// output = output + " -" + parseInt(mathroll[1]) + ", TOTAL: " + finalTotal;
+		modifier = modifier + '-' + parseInt(mathroll[1]);
+	}
+	else {
+		// output = output + "TOTAL: " + total;
+
+	}
+
+	finalTotal = finalTotal + total;
+
+	if(isNaN(total)) {
+		theMessage = 'Valid format: !roll 2d6+1';
+		return theMessage;
+	}
+	else {
+		// theMessage = output;
+		rollEmbed.fields[0].value = output;
+		rollEmbed.fields[1].value = modifier;
+		rollEmbed.fields[2].value = finalTotal;
+		return ({embeds: [rollEmbed]});
+	}
 }
 
 
-// command checker
+// command listener
 client.on('messageCreate', message => {
 	theMessage = message.content;
 	if(theMessage.startsWith('!time')) {
@@ -57,9 +102,6 @@ client.on('messageCreate', message => {
 	else if(theMessage.startsWith('!help')) {
 		message.channel.send('Valid commands: !time, !roll');
 	}
-	else if (message.content === '!hello') {
-    	message.channel.send('Fuck every little annoying creature on this planet and fuck you.');
-  	}
 	theMessage = '';
 });
 
