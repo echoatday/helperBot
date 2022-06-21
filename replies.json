@@ -1,0 +1,93 @@
+{
+    "defineText":[
+        "#word! #partOfSpeech, #definition!"
+    ],
+
+    "helpText":[
+        "#helpCommands\nNeed me to repeat any of that?",
+        "do you really need me to spell everything out for you?\n#helpCommands",
+        "sounds like you have no fucking clue what you want.\n#helpCommands",
+        "you're an absolute mess here.\n#helpCommands"
+    ],
+
+    "formatText":[
+        "Y'know, If you really want to do it so bad, all you have to say is `#formatting`!",
+        "What is it that you even see when you read `#formatting`?",
+        "Hey dumbass. `#formatting`",
+        "`#formatting`. see how things arent exactly fitting here? ",
+        "For fucks sake. `#formatting`",
+        "Wow! I cant tell if you're trying to `#formatting` or shit yourself. ",
+        "You're always so close to doing `#formatting` correctly, arent you? "
+    ],
+
+    "errorStartText":[
+        "Pardon me? ",
+        "Unbelievable. ",
+        "Huh? ",
+        "Hello! Are you speaking to me? ",
+        "Why'd you do that? ",
+        "Is that a command? ",
+        "Hm? ",
+        "Oooh~ ", 
+        "UGHH dont say that gross shit around me! ",
+        "Ahahaha! I dont even need to read your message to know that's bullshit! ",
+        "What. ",
+        "What are you doing. ",
+        "What the fuck are you even babbling about? ",
+        "This is horrible! ",
+        "Just what I want to hear. More problems! ",
+        "Ahahaha. funny. ",
+        "Ugh, are you.. listen. ",
+        "Huh? You're joking, right? ",
+        "Excuse me, ",
+        "What the hell is this? ",
+        "And what is that? ",
+        "What do you mean? ",
+        "I swear. its like I'm speaking in obtuse around you. ",
+        "What do you mean? ",
+        "God you're so stupid. ",
+        "What a waste of time and energy. ",
+        "Are you just talking to yourself? ",
+        "Ah. ",
+        "Stop. ",
+        "Very unattractive. "
+    ],
+
+    "errorNameText":[
+        "That's actually kind of SAD, #nameReply! ",
+        "#nameReply. ",
+        "Po~oor #nameReply~ Are you confused? ",
+        "There there, #nameReply - you'll get there someday. ",
+        "What is this, #nameReply? ",
+        "Excuse me, #nameReply? could you please try that again? ",
+        "I think I actually pity you a little bit, #nameReply. ",
+        "I just want to understand why. why would you waste my time like this, #nameReply? "
+    ],
+
+    "errorLogText":[
+        "would you please care to explain all this `#messageError` bullshit? Hmmm? ",
+        "what part of you really thinks `#messageError` is in ANY way a Good idea, hm? ",
+        "you're going to just go with `#messageError`? ",
+        "you can try to figure out something, so dont give me `#messageError`. ",
+        "`#messageError`? You really expect me to believe that sad attempt was something genuine? ",
+        "I dont even know where to start honestly, `#messageError` is a mess. ",
+        "are you seriously resorting to `#messageError`? ",
+        "haven't you noticed that `#messageError` doesn't work here? ",
+        "you probably shouldn't have tried to do `#messageError`. ",
+        "`#messageError`? ",
+        "what the fuck is `#messageError`? "
+    ],
+
+    "errorHelpText":[
+        "Im just trying to `^help` you.. ",
+        "Do you want my `^help`? ",
+        "Do you even know how to solve problems without relying on my `^help` in some way? ",
+        "If you'd like, I can `^help` you accomplish that. ",
+        "Let me `^help` you. ",
+        "Im here to `^help` you! ",
+        "Do you need `^help`? ",
+        "Would you like some `^help` with that? ",
+        "What you need is some serious `^help`! ",
+        "I want to `^help` you! "
+    ]
+}

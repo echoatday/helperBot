@@ -1,4 +1,6 @@
 const { Client, Intents, MessageEmbed } = require('discord.js');
+const { joinVoiceChannel } = require('@discordjs/voice');
+const replies = require('./replies.json');
 const config = require('./config.json');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
@@ -6,9 +8,30 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-//!time
+function randomElement(array) {
+	return array[Math.floor(Math.random() * array.length)]
+}
+// #formatting, #helpCommands, #nameReply, #messageError
+function errorMessage(theMessage, formatting) {
+	return (
+	randomElement(replies.errorLogText).replace('#messageError',theMessage) +
+	'\n\n' + 
+	randomElement(replies.formatText).replace('#formatting',formatting)
+	)
+}
+
+//^help
+function helpMessage(user, errorType) {
+	const helpEmbed = new MessageEmbed();
+	helpEmbed.color = '#0000ff';
+	helpEmbed.title = randomElement(replies.errorNameText).replace('#nameReply',user.username);
+	helpEmbed.description = randomElement(errorType).replace('#helpCommands','`^time`, `^roll`, `^help`.');
+	return ({embeds: [helpEmbed]});
+}
+
+//^time
 function unixTimer(theMessage) {
-	theMessage = theMessage.replace('!time ','').toLowerCase();
+	theMessage = theMessage.replace('^time ','').toLowerCase();
 	theMessage = theMessage.replace('nzst','+12');
 	theMessage = theMessage.replace('nzt','+12');
 	const timeEmbed = new MessageEmbed()
@@ -18,10 +41,12 @@ function unixTimer(theMessage) {
 	var theDate = new Date(theMessage);
 	unixTime = (theDate.getTime() / 1000).toFixed(0);
 	if(unixTime === 'NaN') {
+		formatting = 'may 01 2021 10:30 pm gmt';
 		timeEmbed.color = '#ff0000';
-		timeEmbed.title = 'Incorrect Input'
-		timeEmbed.description = 'Valid Format: !time may 01 2021 10:30 pm est';
-		rollEmbed.fields = [];
+		timeEmbed.title = randomElement(replies.errorStartText);
+		//timeEmbed.description = 'Valid Format: ^time may 01 2021 10:30 pm est';
+		timeEmbed.description = errorMessage(theMessage, formatting)
+		timeEmbed.fields = [];
 	}
 	else {
 		timeEmbed.color = '#00ff00';
@@ -31,9 +56,9 @@ function unixTimer(theMessage) {
 	return ({embeds: [timeEmbed]});
 }
 
-//!roll
+//^roll
 function rollDice(theMessage) {
-	theMessage = theMessage.replace('!roll ','');
+	theMessage = theMessage.replace('^roll ','');
 	const rollEmbed = new MessageEmbed()
 		.addFields(
 			{name: '│ Rolls', value: 'invalid', inline: true},
@@ -81,10 +106,11 @@ function rollDice(theMessage) {
 	finalTotal = finalTotal + total;
 
 	//final output
-	if(total == 0) {
+	if(total == 0 || isNaN(total)) {
+		formatting = '^roll 2d6+1';
 		rollEmbed.color = '#ff0000';
-		rollEmbed.title = 'Incorrect Input'
-		rollEmbed.description = 'Valid Format: !roll 2d6+1';
+		rollEmbed.title = randomElement(replies.errorStartText);
+		rollEmbed.description = errorMessage(theMessage, formatting);
 		rollEmbed.fields = [];
 	}
 	else {
@@ -99,14 +125,22 @@ function rollDice(theMessage) {
 // command listener
 client.on('messageCreate', message => {
 	theMessage = message.content;
-	if(theMessage.startsWith('!time')) {
-		message.channel.send(unixTimer(theMessage));
+	user = message.author;
+	if(theMessage.startsWith('^time')) {
+		message.reply(unixTimer(theMessage));
 	}
-	else if(theMessage.startsWith('!roll')) {
-		message.channel.send(rollDice(theMessage));
+	else if(theMessage.startsWith('^roll')) {
+		message.reply(rollDice(theMessage));
 	}
-	else if(theMessage.startsWith('!help')) {
-		message.channel.send('Valid commands: !time, !roll');
+	else if(theMessage.startsWith('^help')) {
+		message.reply(helpMessage(user,replies.helpText));
+	}
+	/*else if(theMessage.startsWith('^join')) {
+	}
+	else if(theMessage.startsWith('^leave')) {
+	}*/
+	else if(theMessage.startsWith('^')) {
+		message.reply(helpMessage(user,replies.errorHelpText))
 	}
 	theMessage = '';
 });

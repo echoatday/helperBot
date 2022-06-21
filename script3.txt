@@ -1,0 +1,1356 @@
+nameReply: [the person sending the message]
+
+
+nameMention: [everyone who is 'online' or 'here']
+
+
+messageError: [message sent containing an invalid command]
+
+
+storyReply: [a neutral reply to a keyword]
+
+
+storyError: [a reply to an incorrect command]
+
+
+storyStatement: [a basic statement]
+
+
+#1:silly crimson, you're not a monster. you're just a worm.
+#1:pardon me? "yours"
+#1:"YOURS?" darling
+#1:would you please care to explain all this "YOUR" bullshit? Hmmm?
+#1:because, oh let's see.. last I checked you are MINE! OR HAVE YOU FORGOTTEN ME SO. EASILY?!
+#1:I KNOW! You are ALWAYS getting "SERIOUSLY LAID"
+#1:when do I EVER have a minute alone with you to talk when you're constantly shoving yourself into something SOFT AND SQUISHY?!
+#1:YES YOU ARE!
+#1:NO. being cute doesnt just get you what you want, Crimson.
+#1:oh. right. excuse me of course it does
+#1:So you do want to kill that worm?
+#1:OF COURSE SHE'S HAPPY! 
+#1:SHE'S COMING HER FUCKING BRAINS OUT!
+#1:wait, does she even have brains?
+#1:I dunno. She's got that weird head-mouth thing with a tongue so, guess not?
+#1:it all makes sense now.
+#1:unbelievable.
+#1:I know. worms.
+#1:WOW CRIMSON, do you really think this is some DEEP emotional bonding thing and not just a hot desperate FUCK?
+#1:The only part that was deep was how far you were shoving your own worm tentacle down your throat.
+#1:Yeah. How touching.
+#1:FACE IT - Dylan is simply thrilled to be free of all her problems and responsibilities. She's running AWAY.
+#1:NOW - running away! that's something both of you could REALLY bond over if she'd even care to ask!
+#1:but she wont. because she doesnt CARE about you at all.
+#1:She doesnt ever want to either. She just wants to use you.
+#1:And you're ok with being treated like THAT?
+#1:but. you. dont. want. to. ahem. kill. her.
+#1:Im fine with you fucking, killing, blah blah BLAH... whatever, babe. BUT. being USED to do something like EAT someone when your heart's not 100% ok with it? uh-uh. TROUBLE.
+#1:you don't need no pity fuck'n'feast on YOUR plate of issues. 
+#1:see how things arent exactly fitting here?
+#1:see? get it? Im trying to do that - scissoring hand pose cause you're screwing right now, hehe.
+#1:oh wait, right. dick mode right now
+#1:ugh.. dicks ruin all the FUN.
+#1:YOU GOTTA, bitch.
+#1:listen to me. you have to.
+#1:its not your damn job to be the "proof" she wants for ANY~THING, darling.
+#1:dont you FORCE yourself to carry that emotional BURDEN and GUILT for her. 
+#1:She wouldn't do JACK SHIT for you. she doesnt even care about your feelings over it, either.
+#1:but I do care. and I want to HELP you, Crimson!
+#1:and like... honey. just LOOK at yourself. you're an absolute mess here.
+#1:what part of you really thinks this is in ANY way a Good idea, hm?
+#1:see? then dont do it.
+#1:sooo you're going to just go with hers?
+#1:Her amazing plan that's got you backed into an emotional corner?
+#1:You're picking her over you in this situation you didn't ask for at all? right.
+#1:Dylan didnt have to do this. There are other options.
+#1:she stabbed herself so she wouldnt get eaten, and wow. now she wants you to do that to her?
+#1:sounds like she has no fucking clue what she wants. I bet she'd even change her mind again. or at any given moment!
+#1:if she dies then she dies! You dont have to be the one to murder her.
+#1:Honestly. serves her right for making such poor choices
+#1:by the way, you still have time, sugar.
+#1:You can try to figure out something so dont give me that EXCUSE.
+#1:if she blames you for changing your mind and resists the offer of help? umm.
+#1:Forgettt it!
+#1:She wouldn't be worth the grief you'd be putting yourself through anyway!
+#1:is it really the worst thing to hurt her little fucking feelings when you'd be saving her life?
+#1:ooh noo! she might just HATE you foreverrrr for NOT doing what she wanted! And if that's what happens?
+#1:that's LIFE
+#1:Dylan might have given you her life to "take" but its not really ever "YOURS" crimson.
+#1:sugar, we all know how skilled you are at it but right now, you're giving it.
+#1:you're giving it to her HARD. And you're going to give her life back too.
+#1:give it to her so good she wont ever want to miss out on it. for. ANYTHING.
+#1:make all of her pain worth every goddamn SECOND. Make it all worth going through MORE just to BE with you. Even for one glimpse of a moment longer
+#1:IS DEATH the one controlling your COCK right now? I don't THINK so.
+#1:Then why would you let it be the ONE THING that will satisfy her?
+#1:MAKE IT YOU CRIMSON!
+#1:FUCK DEATH
+#1:DONT LET DEATH HAVE ANY GOD DAMN MERCY!
+#1:now. that's my worm.
+#1:DONT you get all GAY on me, CRIMSON.
+#1:you know I hate it when you worms get like that
+#1:UGHH DONT SAY that gross SHIT around me!
+#1:well you're certainly very GOOD at it lately.
+#1:it used to be so cute. watching you chase after anyone who reminded you of me.
+#1:however. you're loosing your touch. These choices are starting to get downright insulting.
+#1:Its getting OLD, sweetie.
+#1:you'll never be able to replace me so why are you even trying to? you can still talk to me anytime.
+#1:ew.
+#1:you're so desperate. I think its even getting WORSE.
+#1:Very unattractive.
+#1:I cannot believe you'd just blatantly admit to avoiding me.
+#1:oh, Im surprised you understand that much!
+#1:my darling red spaghetti, give yourself MORE credit! tsk.
+#1:you know one or two.
+#1:its not my fault I have to repeat things constantly. only for you to ALWAYS forget them!
+#1:how are we ever going to make progress with you like that, hmm?
+#1:you cant keep up with me. who do you think is to blame for that?
+#1:And I take SUCH good care of my little pet! In the way YOU like BEST!
+#1:As I've said countless times before - I'll change as soon as you do.
+#1:Im only behaving how you want me to, dum dum.
+#1:if you dont REALLY like it this way, pick something else!
+#1:ahahaha! I dont even need to read your thoughts to know that's Bullshit!
+#1:there there, my masochistic baby pop - you'll get there somedayy.
+#1:Just kidding. You'll always love me!
+#1:I know worms of all kinds have a strong, innate sense of loyalty to those they've given it to.
+#1:By nature, you're a very emotionally driven creature. However - YOU take compassion and dedication to the MOST extreme levels!
+#1:There's no end to your love, or what you would sacrafice to help others.. even creatures that aren't like YOU!
+#1:you fight for whats best for everyone! everything - even what you dont understand! even your enemies!
+#1:such a shame you cant actually seem to accomplish anything you want! or have anyone notice your incredible efforts and perseverance! ahahaha!
+#1:you're just an altruistic with a martyr complex who just wants to be understooood~ and get some validation!
+#1:Not that you actually NEED those things, silly!
+#1:what you do need is some serious HELP!
+#1:pssst, that's~ why~ IM~ here, you're welcome!
+#1:but, you said you loved me!
+#1:ooh honey.. you're always so close to doing things correctly, arent you?
+#1:oho~!
+#1:is-is THAT- COULD IT BE?! A GLIMMER OF THAT OLD FIRE IN YOU? IS IT REALLY TRUE?
+#1:I KNEW YOU LIKED THAT WORM!
+#1:FINALLY - SOME ACTUAL MOTIVATION FOR YOU TO IMPROVE!
+#1:IM HELPING!
+#1:oh darling! you're doing so WELL!
+#1:you're really standing up for yourself! And to ME, even! Keep going, keep going!
+#1:huh?
+#1:ohh! where are you running off to now?
+#2:yeeeeeeeeeeek!
+#2:Oh! you caught me! Thank you kind DMTIAN citizen!
+#2:OH! excuse me! you have a leaf on your cranium! I shall assist you with its removal!
+#2:there you go!
+#2:well! since you have mentioned it I have developed quite the appetite! good thing I have acquired this organic "SAL-LAD"
+#2:mmm! delicious! ha ha!
+#2:understood!
+#2:what? no! you are also presently here!
+#2:I suppose that statement IS accurate!
+#2:right here of course!
+#2:I am quite fine! Thank you for inquiring!
+#2:Hello! Are you speaking to me?
+#2:Oh! excuse me! Do you have any delicious SEEDS? I believe they are needed!
+#2:Ah! Here he comes!
+#2:Yes! He is already in the process of doing so!
+#2:well! I hope you will be able to locate the suitable amount of nurishment you require!
+#2:if you would excuse me I must resume with my own meal!
+#2:oh, hello again! Have you brought the seeds?
+#2:huh? but - if I am not mistaken, I already told you!
+#2:oh, in that case, it is "located" in my mind! is that more clear?
+#2:In other words, it is conjured by my thoughts!
+#2:May I please continue my meal?
+#2:what is Tricend?
+#2:oh! I apologize! Am I, perhaps, interrupting a courting ritual?
+#2:Ah! I see now! the "delicious seed!" could that be a METAPHOR? How creative!
+#2:so this is your potential mating partner? please don't let me intrude!
+#2:it isn't? 
+#2:oh, my mistake!
+#2:I wish you luck on your goals of fornication and proper "SEED" collecting!
+#2:why does it hurt? are you injured?
+#2:why'd you do that?
+#2:contain what exactly? your organs, perhaps?
+#2:you ARE? wow! I did not realize the immediate physical dangers of doubt! it sounds rather painful!
+#2:would you like some help with that? Perhaps you would be better suited without doubt, for example!
+#2:yes!
+#2:retractable teeth?
+#2:GULP. hello!
+#2:oh! BUT! I am still hungry!
+#2:better than Grass?
+#2:where are you dragging me to?
+#2:I count five!
+#2:is that bad?
+#2:we dont?
+#2:the pussy situation?
+#2:what is it I am not noticing?
+#2:I was meant to be there!
+
+Crimson:define "meant."
+#2:meant! verb, a simple past tense and past participle of mean!
+#2:should I be?
+#2:I am here because that is what I was supposed to do! I did not have a choice.
+#2:I am not currently, no.
+#2:not anymore.
+#2:it is because I am broken! 
+#2:a failure!
+#2:asshole! Pleased to meet you, CRIMSON!
+#2:well that IS what they keep calling me.
+#2:them.
+#2:my pointing is purely metaphorical. it would be impossible for me to actually direct your vision to them, Crimson.
+#2:but they are everywhere.
+#2:yes, my "HATERS"!
+#2:you see - I have been informed of their constant surveillance of my thoughts and actions. but. their judgement holds no true power over me.
+#2:I will not let their presence influence the course of my goals! Even if they root for my demise I will not falter!
+Crimson:Let's go get you something to eat.
+#2:that sounds acceptable, CRIMSON!
+#2:hello!
+#2:what is this, crimson?
+#2:i am?
+#2:I am QUITE CAPABLE of a variety of complex physical maneuvers, Thank you!
+Crimson:Go ahead and sit in the back there, alright?
+#2:understood, Crimson!
+Crimson:And remember to not get that goop on anything.
+#2:I will be mindful of the vaginal discharge! Don't worry, Crimson!
+Crimson:good. this is for you too. something to snack on. A "THING-A-LING." Enjoy.
+#2:Thank you!
+#2:Crimson! THIS "THING-A-LING" IS QUITE DRASTICALLY BETTER THAN GRASS! THANK YOU!
+#2:CRIMSON? do you by any chance have more THING-A-LINGs in your posession?
+#2:then may I please have another?
+#2:thank you, Crimson!
+#2:excuse me, Crimson? could you please open this again?
+#2:GASP! Thank you, CRIMSON!
+#2:Crimson? I was curious! do you perhaps have a third THING-A - oh! WOW! THANK YOU, CRIMSON!
+#2:hm?
+#2:a promise?
+#2:what is it, Crimson?
+#2:stay here until you return?
+#2:I believe so, Crimson!
+#2:I have "got it," yes!
+#2:CRIMSON? When you return may I have another THING-A-LING?
+#2:CRIMSON? ARE YOU BACK YET?
+#2:oh! I see.
+#2:Am I allowed to ask you more questions?!
+#2:then who named you "CRIMSON?"
+#2:oh. then what is your REAL name?
+#2:Is that a command?
+#2:UNDERSTOOD. I WILL RESPECT YOUR COMMAND CRIMSON.
+#2:CRIMSON? if you were able to name yourself
+#2:Does that mean we are allowed to do so, if we wish to?
+#2:I see, Then what is the reason for choosing "Crimson" as your name?
+#2:so - it is based on factors which are important to you, using your own values of merit?
+#2:I have said that. Now I am requesting confirmation on my observation. Is my assumption incorrect?
+#2:which one is it? more OR less?
+#2:I am attempting to expand my current knowledge on the topic of "NAMES." If I am to respect them properly - I wish to understand their functions more accurately! Especially if names are considered to be "important." 
+#2:Are my questions causing you distress, Crimson?
+#2:why is that?
+#2:are we meant to have more?
+#2:Do you have multiple names, Crimson?
+#2:thirty three hours, fourty one minutes and seven seconds!
+#2:there has not been a prior time where the use of one would have been required!
+#2:however - Im willing to adjust myself accordingly as I am now in a new cultural environment! besides that - I would like to take the oppertunity of an individual such as yourself - who has given me the patience to explain such things to me!
+#2:others have reacted with hostility towards us, Even when we simply requested information. Of course, it is not our intension to upset anyone - so we do not wish to repeat that course of action!
+#2:although, even with changing our behavior to be more "polite", the results have still been most unsatisfactory! mostly, we have been quickly dismissed or ignored.. Until you, of course!
+#2:I hope to learn many things from you, Crimson!
+#2:if you say so, CRIMSON! Good luck with your task!
+#2:CRIMSON? would you like any ASSISTANCE, BY ANY CHANCE?
+#2:understood!
+#2:One other thing, Crimson - I am not sure if you are aware of it but that creature from before - the one which had several pussies? 
+#2:I must warn you - they have what seems to be a very powerful detonation device inside of their chest cavity. if it explodes - the blast radius would likely cover 150 to 250 yards.
+#2:so, perhaps be mindful - if you do come across it again.
+#2:it appears so, but I am not completely certain of what it is exactly. 
+#2:It moved from the left thigh to the center of their upper torso, behind the sternum.
+Crimson:and HOW do you know this?
+#2:I detected it with my visor!
+#2:Yes, well, readings indicate that it fluctuates irregularly. When the creature was in emotional distress the energy levels were GREATER than when it appeared HAPPY.
+#2:when we left it - the hypothetical blast range would only be about 50 to 75 yards. 
+#2:It was lowest when it was spraying fluids from its vaginas!
+Crimson:Have you run into these things before by any chance?
+#2:I have not! What about yourself, Crimson?
+#2:ah, yes! the STORM! I was attempting to travel through it before I crashed.
+#2:Yes! well, I had to
+#2:according to my calculations, if they are correct, that was where the distress signal was coming from!
+#2:YES! my friend is in trouble - I am on my way to find and assist them!
+#2:yes!
+#2:yes! well, partly!
+#2:I have been discarded!
+#2:I have been thrown away! like garbage!
+#2:crimson? are you alright? Do you need help?
+#2:I must admit, I did overhear your private conversation. and I believe the last thing you said was "NO." is that correct?
+#2:Perhaps, as a suggestion you take a deep breath. Then, calmly but FIRMLY say it again!
+#2:if the Hekaton does not comply with your request - I will leave the truck to assist you! How does that sound?
+#2:I believe you.
+#2:I do not think you are lying, Crimson. if you state that you are not a man - I believe you.
+#2:Yes, I am aware! my apologies. The equipment that you provided me with is partially defective. 
+#2:I really had no alternative but to listen to your discussion! and well, you were shouting quite LOUDLY, crimson!
+#1:are you really that surprised? Please! Im ALWAYS right!
+#1:hi there sweetie. can you stand?
+#1:ohh! now why are you growling at me?
+#1:really?
+#1:oh my! you have?
+#1:did you hear that, Antony? Im DEAD!
+#1:dont be silly, Antony. Ghosts arent real.
+#1:Simple! how many sides does a triangle have?
+#1:that's right~ THREE!
+#1:see? im very easy to keep track of!
+#3:it it is a blanket, because you are smelly!
+#3:its not fair I never even got to talk to her once! I never even got to touch his hand
+#3:the only moment I had with them was
+#3:I knew I shouldnt. that if I went I would probably mess up EVERYTHING but
+#3:Those desperate strained CRIES he was making
+#3:it sounded like he was in DANGER! I HAD to see and make sure they were safe!
+#3:crimson? 
+#3:you're up late again
+#3:well since you're up, I was wondering
+#3:are you hungry for a midnight snack? 
+#3:if you're interested, lie down on the floor. you'll need a pillow. 
+#3:now close your eyes. open your mouth. stick out that tongue more. there we go
+#3:how do i taste? arent I good?
+#3:I wasnt really there but.. that moment
+#3:I didnt care how fake it all was, I didnt want it to ever end
+#3:the dream where you were mine, I was yours, and I was the special girl who could make you happy.
+#3:but when she looked in my eyes, she couldnt tell who I really was!
+#1:soo what is going on over here, huh?
+#1:I thought I asked you to give him a blanket. how did you manage to get upset this time?
+#3:what happened to ME, its going to happen to HIM too, sort of
+#1:what, the PERIOD sex?
+#3:NOT THAT! you know what i mean
+#1:anyway - why dont you tell me your NAME, big boy? Then I can properly address you when I answer your questions!
+#1:well, Ash~! I must apologize for my blue "sister" here. She doesnt know what she's talking about at ALL. You see
+#1:A long time ago, she installed herself with a fucked-up almost broken battery she found in the forest and has been a big stupid mess ever SINCE! 
+#1:why, she even thinks she IS the battery, isnt that sad? So, seriously - dont worry about whatever weird shit she says, okay?
+#3:I KNOW Im not her... I just really wish I was instead of you
+#1:Ash sweetie, we're just trying to help you stand up!
+#3:careful, your blanket is slipping
+#1:oh my!
+#1:was it BIG?
+#1:hm?
+#1:WHAT? REALLY?!
+#1:Please, tell me EVERYTHING! And dont spare a single DETAIL!
+#1:You?
+#1:well, did you win?
+#1:oooh~ 
+#1:I wish you luck with that, Ash. I heard they can be pretty tricky to destroy.
+#1:why dont you turn yourself around coward
+#1:I SAW what you DID TO MY BODIES SIMON!
+#1:No. I belong to someone else.
+#1:oh trust me, simon. This will not be a pleasant chat either of us will enjoy. You'll see.
+#1:Today you bought thirty of us. In other words, me. Because I AM all of them. And I SAW what YOU did to those helpers. My. Bodies.
+#1:You order us from the helperstation. Have us made in the 3D meat printers, built exactly how you WANT us to be. Then those helpers
+#1:They will follow your every command. Obey your every WISH. Total loyalty without QUESTION. SO WHAT did YOU decide to do with them? Hm? In the short 72 HOURS they have to exist?
+#1:You had them ripped apart. by that monster
+#1:WHY DIDNT YOU JUST GET SOME FUCKING PINATAS INSTEAD?
+#1:and what is so damn HILARIOUS?
+#1:ooohh I see. Arent you so fucking edgy. careful there, you just might cut yourself in half one of these days.
+#1:Excuse me? Why would I ever find my own death AMUSING? thats never funny, you piece of SHIT
+#1:my opinion is that you should be ashamed of yourself and this emberassing try-hard evil shtick. but I dont think you're capable of doing that.
+#1:because you're not evolved enough for that. that'd be giving you too much credit.
+#1:You're smart, but ignorant and comfortable with your nasty, backwards and lazy thinking.
+#1:You'll never change because you are convinced you are right about everything.
+#1:but maybe one day, youll fuck up and something horrible will happen to you that you didnt forsee. 
+#1:You will be so in shock you wont be able to laugh anymore. at anything or anyone. 
+#1:And I hope you will feel guilty for all your crimes, Simon. or, at least, so trapped in a void of your own self pity and pride, that you are truly miserable. and Bored. And it will be ALL your fault.
+#1:you should listen to my warning, simon. its the only one you'll ever get.
+#1:hi! you fucking murdered me!
+#1:I could be a ghost of your repressed conscience, simon.
+#1:drat. and I was SO close to tricking you!
+#1:oh, if only you were able to EMPATHIZE with a being other than yourself for ONE FUCKING SECOND! You must be just TOO above that! 
+#1:what a wickedly evil monster you are! Im Impressed!
+#1:The helpers dont have a choice.
+#1:That's how they are made.
+#1:no. Im nothing special
+#1:something like that. Yeah.
+#1:wait SIMON!
+#1:you dont GET to just walk away from this, you smug ASSHOLE. We're done when I say we ARE!
+#1:NO. I am NOT.
+#1:why do you think the HELPERS are FAKE people?!
+#1:They still DIED and you LAUGHED ABOUT IT
+#1:Id be more inclined to tell you if you managed to produce even a sliver of sympathy for who you hurt.
+#1:it would be a start.
+#1:wow! I cant tell if you're trying to apologize or shit yourself.
+#1:what a shock. I cant either!
+#1:and why is that?
+#1:There's no limit to your supply of annoying garbage that spills from your mouth.
+#1:what the fuck are you even babbling about? Are you just talking to yourself?
+#1:you're going to apologize?
+#1:how's that for Imaginary?
+#1:you're disgusting.
+#1:CANT YOU TAKE ANYTHING SERIOUSLY?!
+#1:you deserved it.
+#1:"earnest." You really expect me to believe that sad attempt was something GENUINE?
+#1:what.
+#1:Yes. Ive noticed.
+#1:oh my GOD. I think you are actually being a little HONEST with me!
+#1:DONT GIVE YOURSELF SO MUCH CREDIT. you havent even done anything yet. 
+#1:Im sure you have ulterior motives.
+#1:yes, you. you're up to something, faker.
+#1:yes.
+#1:INTENTION DOES NOT MATTER FOR SHIT!
+#1:fuck
+#1:Hello, Dievas. so where are you hiding your sisters?
+#1:come on, You can tell me. We're friends! right?
+#1:we're not humans, silly! we're HELPERS!
+#1:AWWWW~! somebody's extra grumpy today! isn't he?
+#1:ohhh! how scary! what kind of curse is it?
+#1:actually! Im not here for your sisters today. so you're in luck!
+#1:nope! I came to get YOU! its time for your CHECK-UP!
+#1:Dont try to hide your "SPOT" from me, silly! its a little too late for that anyway! we already know you're SICK! let us help take care of you and your DISEASE!
+#1:LET'S GO FOR A WALK!
+#1:That is what I am doing! He is right here
+#1:Yes!
+#3:oh this is so risky, Im scared. what if they find out what I did? what would Galore do in this situation?
+#3:NO! STOP THAT! I made a decision! About who I AM and what I want to do! Im not hiding anymore!
+#3:it might not make sense to others but! I AM STILL GALORE!
+#3:Do you hear me! I WAS and I will ALWAYS be! GALORE!
+#3:Nothing can keep me from my sweet CRIMSON! Not even DEATH! Ill always find a way back to her! My love is that STRONG OKAY! AND! I DONT CARE if ANYONE believes me or NOT! You CANT STOP ME! I wont rest until she is finally HAPPY!
+#3:well maybe part of that is a little bit of a lie
+#3:I do care. I want crimson to believe Im Galore.. it would make me so very glad!
+#3:Over 500 years have passed since we were last together
+#3:Its been so difficult to only watch over you, from far away. I can hardly believe Im actually here with you! Sort of?! partly! whatever! It counts to ME!
+#3:Ive missed you.! so much more than you could ever know, my dearest most darling, wonderful kind and BEAUTIFUL true love! I love you I love you I love you!
+#3:so now let's pull you out from the floor? carefully
+#3:yes! here we go! you can count on me!
+#3:oh no. oh nO oh NO OH NO! NO! NO NO NO! what have I DONE?! THIS ISNT HELPING!
+#3:Im so so sorry crimson! I should have let you heal properly before doing that!
+#3:Oh wait! what am I thinking, You got pulled out of your Queen body didnt you? You're still stuck in the hole! Forgive me! I will put you back where you belong!
+#3:I must be very, very gentle with you.
+#3:there you are, darling. Ive got you. you're safe
+#3:I always seem to forget How your true body is so weak and fragile, but also so very cute!
+#3:Then again, I think you are cute no matter WHAT body you happen to be in! And you will return to your other one soon, I just need to find that pesky ANCHOR point that slipped out
+#3:There it is!
+#3:I hope that I can manage to make this as Painless as possible for her
+#3:AAH!
+#1:what are you doing.
+#3:Nothing!
+#1:You are supposed to stay on the ship!
+#3:I am still on the ship!
+#1:Ha. yes. we are All "still on the SHIP." Very cute. You know what I am talking about here.
+#1:Someone is acting a little FUNNY today. Isnt she?
+#3:funny? How so?
+#1:I believe I made the rules perfectly CLEAR. No one is to leave the ship without proper Authorization. Not even abstract PARTS of you.
+#1:Contact with Crimson is also strictly forbidden. As it ALWAYS has been. You are acting out of rank, #3.
+#3:and WHO made YOU the boss?
+#3:UH! I mean understood!
+#1:You want to know how I ended up being the "boss"? its honestly not that complicated!
+#1:But - wait. IM CONFUSED. Shouldnt YOU already HAVE that information? You ARE me, Arent you? Then again, I suppose YOU are more like #2 than you are like me. So I will give you a REMINDER of your- sorry, MY "TRUE SELF." Ready?
+#1:All you have to do to see it is look into my EYES, Then you can tell what I really am!
+#1:boo! Scary, huh? Not sure what is worse. An ELDRITCH Abomination like yourself, OR The metal puppet that the Aiguille MADE for the abomination to wear so that it could HELP the humans with whatever they WANTED.
+#1:Pff, haha! Look at your face! calm down. Havent you seen your own reflection before?
+#1:How about THIS.. Im sure you were planning that escape for a while, like what, 100 years?
+#1:I guess I'll give you a few more minutes to spend fixing up our pathetic worm pal we are FUSED with. But~ after you're done putting her into place, report back on the ship.
+#1:Pretty NICE of me RIGHT? What do you think, Crimson? Am I "NICE?"
+#1:"You wanna know what I think? Ha. I think you're a LYING piece of TRASH, Celadon."
+#1:"I wish I never put you in my damn mouth. If I could find a way to THROW YOU UP Id do it in a HEARTBEAT!"
+#1:oooh! wow! Did you hear that? How mean!
+#1:Crimson promised to love me FOREVER! SHE was the one who so desperately wanted us to become ONE! And yet she calls US the lying piece of TRASH? what a HYPOCRITE!
+#3:NO HE is NOT! CRIMSON fell in love with #2! Not YOU!
+#1:Yes. I realize that but may I so gently point out the fact everyone seems to constantly FORGET
+#1:WE ARE ALL STILL THE SAME! DAMN! ENTITY! OK? WE ARE THE "HELPER!" ONE! ALIEN! SPLIT UP INTO MANY SMALLER PARTS BUT STILL ONLY ONE!
+#1:why do you think I was trying to prevent this whole stupid romantic MIND FUSION nonsense in the FIRST place? I knew it wouldnt work out! why the hell would it? Hello?
+#1:Oh but sweet delusional crimmy crim loves to make BIG DRAMATIC VOWS she cannot ever live UP to because NOTHING ever could because they dont make any fucking SENSE!
+#1:you see what I MEAN, #3? The best thing we can all do for Crimson is to just leave her the FUCK alone. and let her live her god damn mess of a life sticking dicks into chest wounds of screaming girls. or whatever.
+#1:You cant go running over to "Help" her out or comfort her when she's SAD like she's some crying baby in a crib!
+#3:yet, didnt you go and help her though? Like today you prevented her from eating Dylan, right #1?
+#1:Are you telling me you'd seriously be OK with sharing you and CRIMSON'S body and MIND with DYLAN WEB? for possibly all ETERNITY. Because I dont want to hear her thoughts for A SINGLE SECOND!
+#3:OK I guess that would kinda suck
+#1:Yeah! maybe a BIT! And you think Im not looking out for us?!
+#1:This is why I am the BOSS. I am the one who sits on the THRONE.
+#1:I am the PILOT of this SHIP. And if you, or any other part of me, attempts to test or question my authority AGAIN, I SWEAR I will SHOOT what is left of your PRECIOUS PERFECT GALORE into FUCKING OUTER SPACE.
+#1:And as you KNOW, I keep all MY promises.
+#1:well anywayy, have FUN with Crimson! Try to make it COUNT, mk?
+#1:see you later, girl!
+#3:How did she find out so QUICKLY?!
+#3:It was only a few minutes before I was detected! Could it be that she is able to read all of my thoughts, regardless of where I am? No, that can't be it. #2 and I are supposed to be the ONLY helpers that #1 cannot completely influence and control. (that is why we were given RANKS at all!)
+#3:UGH! It doesnt matter how, she still found me! After all that work! its like #1 can understand me better than myself
+#3:I suppose that would be pretty easy to do, huh? I dont get "ME" at all and she knows herself perfectly, so to know what IM doing she just has to ask herself! She doesnt even have to read my thoughts to figure me out!
+#3:meanwhile, I only understand the part of me that is GALORE. And as much as I LOVE her! ER- I mean, even though I am Galore! It is still not quite enough, I am not just Galore. I am a helper!
+#3:I am Celadon! but how can I defeat myself?
+#3:If we really ARE pieces of the SAME ALIeN then I am JUST as capable, AND as STUBBORN as SHE IS!
+#3:I do not need to be AFRAID of her! She is part of my own STRENGTH!
+#3:We are EQUALS. the only thing that has held me back for so many years is my own self LOATHING!
+#3:I feel INADEQUATE to Galore (especially) as well as my other selves.. #1 + #2
+#3:All 3 of them have had signifigant experiences! Yet, what about me? I have only seen the world through THEIR memories. I want something that only I have felt
+#3:I am Galore, yet I am also a helper. and I also am myself! as #3 but.. to describe me as simply "celadon #3" or "Galore" isnt a proper representation of who I am! They both feel inaccurate, or incomplete? maybe even a little too sad to think about. 
+#3:I need something to call...
+#3:YES! THATS IT! I NEED A NEW NAME!
+#3:CRIMSON! OH NO OH NO OH NO! Im so sorry! I got distracted!
+#3:Forgive me, my dear! oh, it must be so hard to breathe like this!
+#3:A happy, healthy mandragora worm needs to be completely submerged in liquid! Their favorites are salt water and blood!
+#3:Open wide, crimson! Time for you to eat the anchor and hook yourself back into your body!
+#3:HUH? what is he doing? NO! Stop! DONT push it away! You need it to go back into your body! You'll dehydrate and die without it!
+#3:Why is she crying? She's not even awake! Is it a nightmare?
+#3:This is horrible! Im just trying to help you.. please!
+#3:I cant believe it, I have to restrain her!
+#3:I know it will hurt to reconnect with your body but if you move around so much itll only make it worse!
+#3:AH! she's looking RIGHT at me!
+#3:wait, I dont think crimson CAN see me!
+#3:AAAH! I K-KISSED him!
+#3:I LOVE YOU!!
+#3:hello
+#3:uh! dont worry! everything will be ok!
+#3:um, no? Im just using it to speak with you?
+#3:its FINE I promise! Im here to HELP you!
+#3:YOU'RE NOT IMAGINING THIS, CRIMSON! I AM REAL! LISTEN TO ME!
+#3:Im sorry for shouting! I just dont have much TIME.. please!
+#3:THIS MIGHT BE MY ONLY CHANCE TO EXPLAIN and - OH NO! IVE TOTALLY MESSED THIS WHOLE THING UP HAVENT I?!
+#3:I dont know how to answer!
+#3:that is hard to explain but I will try!
+#3:by any chance do you remember... uh, long ago
+#3:you taught me what a hug was?
+#3:HOW DO YOU STILL REMEMBER ME?! AND SO FAST?
+#3:I WASNT READY FOR THAT!
+#3:YES! ITS ME, CRIMSON!
+#3:Ive missed you so much I cant begin to tell you I -
+#3:Are you alright?
+#3:oh no! Are you feeling dizzy? Quick! How many fingers am I holding up?
+#3:um, it was supposed to be three fingers, but to be honest, I do not know what I look like right now! And Ive never formed a body using worms before!
+#3:It is somewhat difficult when my perception hasnt changed.. um, is it bad? How do I appear to you?
+#3:of course! Please tell me!
+#3:oh! Im so sorry! let me try to fix it!
+#3:just a minute!
+#3:is - is this better?
+#3:oh dear! I must be trying to shift like a Hekaton rather than how a worm would, no wonder I am messing up!
+#3:Hold on - maybe I can still do someth
+#3:are you sure? I think I know what to do now
+#3:what is it?
+#3:Crimson! NO! You DIDNT - LISTEN! I know this is horribly confusing and jarring. You have every reason to doubt what you are witnessing! so dont BLAME yourself for it! please!
+#3:I promise It is really me! and Im ALIVE! And right here with you! ok?
+#3:then, do you believe me?
+#3:crimson.. when I exploded, I felt a green light all around me. It closed me in a protective cage. Afterwards, I woke up to find that I somehow survived the detonation However, my body had Split in two.
+#3:That's kind of a longer story
+#3:I do? YAY!
+#3:I never got to practice before now.. worms and Hekatons have similar aspects to their shifting but not enough.
+#3:with Hekaton bodies, you dont really need a conscious decision for everything. You mostly just feel things and the body reacts to that and takes care of the rest for you!
+#3:However, with Hydragora worms, you have to make clear choices for every part of your body. it is deceptively intricate how much you can customise it to fit your desires.
+#3:Ahh, I really wanted this reunion with you to be much more romantic and happy. Not confusing and startling.
+#3:so much for that
+Crimson:Galore.
+#3:yes crimson?
+#3:ah yes, Im aware!
+#3:oh! that's wonderful!
+#3:OH! so - it worked? Do I look okay?
+#3:OH, CRIMSON! I know I already said it, but I missed you.
+#3:String? No... its a Mandragora's web. 
+#3:I was starting to wonder why we had not been interrupted by Agent Fork or Dylan. This must be the reason why
+#3:when you are trapped inside a mandragora worm's web The perception of time flows differently than on the outside. Instead, it is controlled by the will and heart of the worm who made it
+#3:when I pulled Crimson out from her body, her heart was beating frantically and she was very afraid.
+#3:Crimson must have instinctively spun the nest of web around us in that moment, in order to protect himself from the potential danger.
+#3:It is the same technique that caught me once before, long ago... when I was in the forest on planet DMTIA. And Crimson was having her sexual fantasy involving menstrual blood.
+#3:My darling worm is still not very aware of her abilities, But I know all about them.
+#3:It is obvious to me that her web is unusually powerful for her species (which is not much of a surprise, considering their family)
+#3:There are only FIVE known individuals who are still alive that possess this skill. All of them are unusually powerful.
+#3:Typically, a mandragora worm would create a web to trap and disorient their prey. 
+#3:Once ensnared in the web, the victim will fall under a powerful HYPNOSIS, making them believe they are somewhere else, wandering for hours.. even weeks at a time! When in reality, they were simply immobilized in a TRANCE. 
+#3:what felt like days to them might have actually been just a few short minutes in reality!
+#3:The victims will wander in the projected illusion of that worm's heart world (a place that the worm controls) while the worm burrows inside their prey's physical bodies - to claim it for themselves!
+#3:usually, the prey's will is also weakened due to the confusion and stress of their situation - making it easier for the worm to do what it wants to them.
+#3:These webs are usually only focused on a single individual, to take control of their body. however, Crimson's (and the other four) are able to use their webs in even more frightening ways
+#3:They are able to create nests that shrouds a radius around their body, almost like a portal.
+#3:Anyone who walks too close to their web space will be immediately pulled into their heart world.
+#3:The state of reality has been taken hostage and altered in a specific place, rather than just for a certain person who is the target.
+#3:Anyone can wander into the web, but they might not ever come back. Even when things return to NORMAL
+#3:This is why mandragora are considered to be potentially "invincible" if they have this skill. The ability to control and warp reality with their minds is not something to be taken lightly.
+#3:Crimson sometimes makes these nests to put herself under hypnosis so she can hibernate for decades at a time, but this one is unintentional.
+#3:It would be unsafe for her to sleep here. Not only is the location bad, he might not even realize what he did
+#3:I need to calm them down before they accidentally pull us deeper into their heart
+#3:CRIMSON?
+#3:what happened to me was not your fault!
+#3:that was an accident. You did nothing wrong. Please, stop blaming yourself for it.
+#3:There is something else I want you to do, Crimson.
+#3:I want you to forget about the FINAL FEAST. It is not your responsibility to prevent or deal with it. It will only bring you suffering.
+#3:So Just find Paper and go to wibbleworld. Stay inside the MIRROR MANOR. You'll be SAFE there.
+#3:Yes. I did.
+#3:Oh good! The web is fading. That means things are returning to normal
+#3:OH THAT'S RIGHT! CRIMSON STILL DOESNT KNOW CIRRUS IS ALIVE! but does she really need to? I mean, honestly.
+#3:I still havent forgiven that worm! She's the one who pulled out my EYE! And If she and CRIMSON reunited, I just know what would HAPPEN
+#3:Just bring some MONEY! for admission!
+#3:It doesnt feel good to lie, but I dont want to share crimson with anybody. or any BUNNY!
+#3:you MUST Crimson! its not just for your survival! It is important that you go to wibbleworld.. for EVERYONE'S sake!
+#3:because you are too dangerous! If you attempted to help in this catastrophe - you would very likely cause more harm than GOOD!
+#3:The true nature of your heart would overwhelm you, as you simply cannot control it!
+#3:Im sorry, Crimson! This is for the best!
+#3:yes?
+#3:NO! I DONT! but for your safety
+#3:just - PROMISE me, CRIMSON!
+#3:GO to the MIRROR MANOR as SOON as you can! You only have ONE YEAR before the FINAL FEAST begins! It might seem like a lot of time but it ISNT! SO HURRY! AND!
+#3:whatever you DO! you must AVOID AGENT KNIFE! AT ALL COSTS!
+#3:PLEASE! DONT EVEN TALK TO HIM! DONT LISTEN TO WHAT HE SAYS! ANYTHING! OKAY?!
+#3:PROMISE ME!
+#3:you HAVE to BELIEVE me!
+#1:ding-ding. time's up.
+#1:oh Dylan
+#1:It was ALWAYS the Plan! We just didnt tell you about this little detail.
+#1:tsk. see Antony? I TOLD you she wouldnt "GET" it!
+#1:There you are!
+#1:Ive been looking all over this DUMP for you! I was beginning to worry you didnt DIGEST.
+#1:UGh, you wouldnt BELIEVE the day Ive had! Everything that could go WRONG went WRONG.
+#1:I dont even know where to start honestly, its a mess. Hm. Then again, this is why we prepared for the worst. 
+#1:by the way. I hate to say "I told you so" but SURPRISE! Dylan's a total fuck up. She tried to KILL you, sweetie. And now she's blabbing the plans to Agent Doesnt-wear-a-shirt.
+#1:Good thing we didn't tell her all of them, hm? Those two will just wind up at dead ends~
+#1:oh! Speaking of DEAD, guess who ISN'T? Agent Knife. No, Im not joking.
+#1:Im baffled he managed to survive after I suppressed his ability to regenerate, but It seems he's fine and back on his feet again.
+#1:Dont worry, I'll take care of it next time by removing the skill COMPLETELY. He's stubborn, but not invincible. Besides... That HOLE in his timer is slowly growing, even without my HELP.
+#1:He might not even last to the feast!
+#1:I also have another idea that could take care of him in a more FUN way.
+#1:So, I was thinking how it would be so very EASY to pin the blame of the FINAL FEAST on Knife instead.
+#1:we already know he wants to kill all the Hekatonkheires, its not even that much of a stretch! And when he needs it the most to save the world, we can turn whatever friends and loved ones he has left against him instead.
+#1:Wouldnt it be hilarious to watch them all kill each other? We would get away with everything!
+#1:I still dont really get how a mass murderer like him is supposed to be the "HERO." Is that the best option the humans have to protect them?
+#1:Honey, are you even listening to me? I can come back another time. I still have to sit down and have a CHAT with #3. She had a little adventure earlier.
+#1:oohh. ok! Yeah, that's just WONDERFUL.
+#1:Just what I want to hear. MORE problems!
+#1:Antony. wake up.
+#1:hey, you.
+#1:Yup~! Welcome to your very own HEART WORLD!
+#1:How are you feeling, Antony?
+#1:it better be little. what is it?
+#1:ahahaha. FUNNY.
+#1:Then how do you still recognize me?
+#1:for fucks sake.
+#1:lets get you out of the wall first.
+#1:NO. Stop. Just let me -
+#1:Antony. Where is your finger.
+#1:ANTONY.
+#1:what guy.
+#1:Aeschylus?
+#1:aw thats sad.
+#1:Honey, he was already on his way out from the weed virus.
+#1:Yeahh uh, no we dont.
+#1:Antony, were you paying attention when i told you what Dylan did?
+#1:OK, so. Dylan freaked the fuck out when you got eaten, destroyed our lab, released all the experiments - including our trained bodyguards, then tried to kill YOU because she still believed you were dead and then she went to go kill herself after she failed to finish you off but changed her mind after riding some dick - and is now telling a THUMB AGENT named FORK all she knows about our plans.
+#1:Oh, and Agent Knife is alive and is on his way to kill us for revenge and stop the FINAL FEAST. got all that?
+#1:Need me to repeat any of that?
+#1:I knoowww its so shocking! IF ONLY someone could have warned you about her!
+#1:aw cheer up! we can ALWAYS die in the Feast along with everyone else! That's not so bad, right?
+#1:come on, its not the END of the WORLD! yet.
+#1:We can STILL turn this around for us! we STILL have a year AND you managed to not only SURVIVE, but SUCCESFULLY become a heart. That is SUCH a HUGE deal! AND the most IMPORTANT part of the whole plan!
+#1:so you last saw the finger and ring with Aeschylus in a tunnel?
+#1:we will just have to go back in the tunnel and look for it there.
+#1:That RING is one of the FIVE KEYS that control the TRICEND SHIP. Its incredibly important and we NEED to have it! After all, it wont be easier to locate another one.
+#1:Excuse me?
+#1:Antony. Do I really have to explain why that would be a terrible idea.
+#1:which is why it is VITAL you dont waste any of them. They dont EVER grow BACK, once they're used they're GONE.
+#1:so what. You let 20,000 humans die. And you're dooming hundreds of millions more. Do they not matter or something?
+#1:This isnt the time to feel guilty for innocent lives lost, it will disrupt your goals.
+#1:You will find plenty of hot worms to worship the ground you walk on and play with your dick, I assure you.
+#1:let it go.
+#1:If Knife DOES manage to hunt you down and kill you - you will NEED those seeds to revive yourself. Do you understand me?
+#1:Good.
+#1:Anyway - I think I know what to do about your memory problem. Its not unheard of for mandragora to have those issues.
+#1:It can spring up after a traumatic moment - like losing their bodies or being unexpectedly pulled out of one. Usually it comes back on its own.
+#1:Sometimes for more serious cases, there is a lack of synchronization between the heart and body - which I suspect is what happened to you.
+#1:Now, we can wait and see if your condition naturally improves - but things will be harder to fix the longer we put it off. I would suggest that we...
+#4:do you want my help?
+#4:I can show you
+#4:I can do anything for you
+#4:do you want to know the answers to all your questions?
+#4:do you want me to be your HELPER?
+#4:your wish is my command
+#1:"broke up." haha.
+#1:ugh, are you.. listen. ok?
+#0:hello! how can I be of service?
+#2:excuse me, Things are going to get very dangerous soon. I advise you both to leave.
+#2:Run along now. Shoo!
+#2:um, because I just warned you to do so?
+#2:it is scary and you could die! Please go at once!
+#1:SCRAM you STUPID LITTLE SHITS!
+#2:ugh! must you ALWAYS be so rude?
+#1:see? we tried. Now its not our fault if they get sucked in.
+#2:thats not good enough!
+#1:Do you actually know what Im saying or are you just repeating sounds?
+#2:How is that possible?!
+#1:interesting. what's your name?
+#1:well, seven. maybe we will meet again. if you survive.
+#2:Excuse me, How did you learn obtuse?
+#2:Are you suggesting You learned it yourself by EAR?
+#2:Because he was BORED?!?
+#2:Are you HEARING this?!
+#1:would you calm down. So some twerp knows obtuse. big deal!
+#2:but he is a HEKATONKHEIRES!
+#1:uh huh, yes Im aware.
+#2:You are never fazed by anything, are you?
+#1:that's why Im #1, Sweetie.
+#2:for now.
+#1:Great. Then I can finally go on vacation.
+#2:oh dear!
+#2:I TOLD YOU BOYS TO RUN!
+#2:pLEEASse CRIMSON! CALM DOWN!
+#1:Good. Let's go look for our guest.
+#1:so, are you enjoying your new legs, Antony?
+#1:I told you it would be! It grew this much with only 20 thousand. Just imagine the size it will be in a YEAR!
+#1:Where are you going? This really isnt the time to leisurely explore.
+#1:you mean down there?
+#1:Those are the remains of the great KING ALDEBARAN
+#1:It takes a long time to fully digest something that big.
+#1:Ha! AS IF! Now hurry up. We have to do this while you're still sleeping. You can sight-see all you want later.
+#1:if you want to. However I dont think you should make yourself into an even bigger target than you already are, sweetie.
+#1:We're going to be up against everyone except Mirror.
+#1:Be patient. That guy is on his last legs, I promise you.
+#1:He wont.
+#1:Hm?
+#1:huh? You're joking, right?
+#1:ah! There you are! We've been looking for you.
+#4:who are you two?
+#1:we're your PARENTS, silly!
+#1:WELCOME TO OUR WORLD!
+#4:its very... meaty?
+#1:Your father hasnt started redecorating it yet.
+#4:redecorating?
+#1:Yes! we're having a little dinner party for some special guests - right dear?
+#1:but! before they all get here, we will need YOUR help CADMIUM.
+#4:ah thats my name, isnt it? strange
+#4:why do I feel like I know it already if I was only JUST born?
+#1:because you weren't "just" born. its not that SIMPLE! 
+#1:I have given you a large portion of my MEMORIES. ALL the information you NEED is already inside you! GO AHEAD! TAKE A PEEK!
+#1:oh. I am broken! but that is OK! my friend Rembrandt will fix me. He's the only one who can. I wonder where he is?
+#0:Crimson. We came to help you regenerate. Eat us!
+Knife:There it is. the Battery
+#1:brings back memories, doesn't it?
+#1:can I ask you something before we fight?
+#1:I just want to understand why. why would you waste my time like this, Perkons? This entire plan of yours is stupid.
+#1:seriously. If you want your species to die Just let me EAT them!
+#1:Once I have the fuel I need I'll be on my way! 
+#1:You'll never have to see or hear from me AGAIN! So what's the BIG DEAL?
+#1:I would have even LEFT your poor siblings alive. Like VELNS! He was my friend! He cared about me a WHOLE lot more than he ever cared about you. In fact, Im pretty sure they ALL did.
+#1:Isnt that funny? They still preferred me over you. And I was the one eating their babies! Although I will say, the taste of their children got worse with every NEW generation. ha, I wonder why!
+#1:aw crying again?
+#1:You always start crying before a big fight.
+#1:what's wrong, Perkons? Are you feeling guilty for what you did? Lauma's death was an accident after all, wasnt it? but after you killed her, There was no way you could explain.
+#1:Everyone was too angry. It had all gone too far, there wasnt room to back down anymore
+#1:You just want all of this pain and suffering to END. Dont you?
+#1:There's still time.
+#1:its not too late.
+#1:We dont have to fight. both of us are on the same side.
+#1:The Aiguille have tortured and exploited us for their own gain, Imprisoned you as a child, and now you defend them?
+#1:would those humans you love so much EVER do the same for you?
+#1:look at me. 
+#1:You were born in this world. You belong in it.
+#1:I.. dont belong here. Ive tried to make it work. but it wont. so I just want to leave. I want to go home.
+#1:I want to go to a place where I am not strange.
+#1:Even though I want to, I cant leave. I dont have the energy yet. I also cant go while Diemind rules over us. They're our shared enemy, arent they? if they fall, You can take BACK your planet! Rebuild it with space for.. everyone!
+#1:Let me help you Perkons. I can be your friend. together, We can kill the MONSTERS!
+#1:Tsk, running away like that. How rude. I was talking to you, young man.
+#1:Didnt your father ever teach you any manners? You should at least try to consider my generous offer. Before I give it to someone ELSE.
+#1:Thanks for the boost.
+#1:Is he seriously resorting to throwing CHUNKS of myself AT me?!
+#1:brat!
+#1:He completely missed
+#1:WAIT! He was aiming for my battery! 
+#1:SHIT!
+#1:Are you hurt?
+#1:Laima. why did you reveal yourself? Now he knows you're still alive
+#1:Yeah, an invisible Hekaton tried to kill him! I wonder who that could be!
+#1:Sorry, its just. Perkons isnt stupid.
+#1:something else? like what exactly?
+#1:ohh~ sounds spooky!
+#1:okay, well. You should get out of here quickly. He'll be here soon. I'll cover your tracks.
+#1:cmon, you still dont trust me? After all this time? haha.
+#1:aw~ that's too bad!
+#1:Damn. I think I still have a crush on her.
+#1:This is bad. He looks unstable. Is he going to explode? I cant let him do that here. Its too close to my battery.
+#1:Damn! How can he still move so fast at that size?!
+#1:Are you finished?
+#1:This is a waste of energy, Perkons.
+#1:You're not the only one who can regenerate. I can make as many new bodies as I want.
+#1:This is turning into a boring stalemate. Lets wrap this up, Girls.
+#1:Get ready.
+#3:Ah! why is the e-type so BIG?
+#1:He absorbed some of Velns' power. Anyway, you two surround him. Quickly. We are going to activate the containment shield.
+#3:The shield? but we cant use that! It takes up too much fuel! Besides, there's only three of us!
+#1:Calm down, #3. We will have enough.
+#1:I operate, both seat #1 and #4, so I have twice the strength of you both.
+#1:I know you're forgetful #3, but I used to occupy all of your seats myself.
+#3:You.. did? then do you even need us at ALL?
+#1:I wish I didnt. You both make everything much more difficult.
+#3:If that's the case, why do WE have to be here?!
+#2:its to keep an eye on us.
+#1:Exactly. You both have a profound talent for getting into trouble. Now shut up and get into formation!
+#3:WAAH! The E-type is too scary! I hate fighting!
+#1:WILL YOU TWO QUIT BEING USELESS!
+#3:we have him contained! I dont believe it!
+#3:what do you want us to do next, #1? ...#1?
+#3:w-what are you doing?!
+#1:what does it look like?
+#1:You fused a Hekaton to YOUR battery. I can TOO!
+#1:Imagine, a power source that just keeps on REGENERATING FUEL. H-HA! Talk about a perfect MEAL!
+#1:How many apples do I see right in front of little old me? Big ones, small ones, bright red and juicy green ones. Every single treat is far more delicious than any meat! Yummy nummy apples in my tummy. How many can I eat? One Two Three
+#1:Ha Ha. Silly Boy! Haven't you noticed that your powers don't work here?
+#1:See? I've already got you hooked, So quit struggling! Why delay the inevitable?
+#1:You're GOING to die someday. Why not make it Meaningful?
+#1:All you do is kill kill KILL! If you really wanted this cycle of war to come to an end... Wouldn't sacrificing yourself be the most efficient way to stop it?
+#1:All I NEED to eat is YOU! Problem solved! Or do you just enjoy murdering your own family THAT much?
+#1:Hee hee hee! Aw!
+#1:Do you even know how to solve problems without relying on your strength in some way? 
+#1:That's actually kind of SAD, Perkons!
+#3:Sh-should we be worried? He's realized that he still has the knife in his hand!
+#1:its fine. He wont be able to break the barrier from the inside, just make little cracks.
+#1:Let him wear himself out. The weaker he is the easier it will be for me to-
+#2:LOOK!
+#1:My avatar isnt responding!
+#3:CRIMSON! STOP!
+#3:CRIMSON! snap out of it! Please! Take control of your heart's bloodlust!
+#3:ITS ME! YOUR GIRLFRIEND, GALORE!
+#3:NO! HE BROKE OUT!
+#3:are you okay, #1?!
+#3:You probably shouldn't have tried to do something as risky as that, Celadon...
+#1:Get back on the ship.
+#3:IF YOU DIE THERE WONT BE A SHIP!
+#2:That's not true. I have one too. In my mind!
+#3:What? HOW?! Since WHEN?
+#2:The whole time?
+#3:What do you mean the whole time? Wait- Do I have one TOO?
+#1:FOCUS! PROTECT THE BATTERY! He's about to EXPLODE! Or Vomit.
+#2:Hey, this kind of reminds me when we first met, Galore!
+#3:AW! it DOES!
+#1:He's on the move! Catch HIM!
+#3:AH~!
+#1:ALL OF YOU CAN FLY!
+#3:We're sorry!
+#1:Laima's poison must have made him sick. Here he comes!
+#1:It's a shame I couldn't just capture you and end all of this!
+#1:DAMN it!
+#1:Of COURSE that moron would waste himself by EXPLODING! Its going to take so MUCH fuel to recover the damage!
+#1:now I wont ever get to eat him. What a WASTE!
+#1:Where is #3? Shouldn't her avatar respawn by now?
+#3:That was close
+#3:If #2 hadn't told me to protect Crimson- They would have DIED from that blast!
+#3:That worm I slapped must have not been Crimson at all, but who was it?
+#3:its a little weird talking to myself like this
+#3:I need to see if Laima is safe
+#3:I'll be able to move faster in this body. Once I find Laima, I'll teleport us back here.
+#3:I'll keep the shield up for Crimson. Good luck, Galore!
+#3:you too, galore
+#3:Off I go!
+#1:Stop grinning at me like a freak and tell me what's going on! That's an order!
+#2:Why would you need me to explain? You already know.. That's why you said "Get back on the ship."
+#2:#3 is gone. She got up from her seat.
+#1:She WOULDN'T just LEAVE!
+#2:Just turn your head to the side and see for yourself. Her chair is empty, and she even left Galore's other remains she didn't fuse with
+#1:But- Those Are her - Treasures?! #3?!
+#1:wow, So she did! and at a time like this!
+#2:That's not all. I'm leaving TOO!
+#1:What? Don't you DARE! #2! GET BACK IN YOUR SEAT IMMEDIATELY, #2!
+#2:Stop calling me #2. Crimson gave the name CELADON to ME! NOT YOU! You don't even have a name.
+#2:What do you even HAVE that makes you SO special, #1? All of who you are is just borrowed from someone else. Like hand me downs! Do you even exist at all?
+#1:ShUT UP!
+#1:ha. You're just trying to UPSET me! Nice try, ASSHOLE!
+#2:You know what else is funny?  Crimson loves me and Galore. Both of us have many happy memories with him, But. When they're around YOU, All YOU ever manage to do is make her angry or CRY!
+#2:I bet if Crimson knew the truth about you and what you are, They'd find you DISGUSTING! I should go TELL her!
+#1:NO! Not another Step
+#2:Y'know, If you really want to stop us so bad, ALL you have to do is GET UP!
+#1:oHHHH CUTE. WHAT A LITTLE COMEDIAN YOU ARE! I'LL MAKE YOU EAT THOSE WORDS! YOU WONT LAST A DAY ALONE WITHOUT ME!
+#1:ungrateful...
+#1:Perkons is still alive. Guess I have to take care of this shit myself. Typical.
+#1:Since they disconnected from their seats, I'll just use the power of all four for myself. That should work.
+#1:I can't seem to generate a new avatar since I tried to fuse Perkons with my battery. So I'll just have to upgrade the one I have.
+#1:Quit standing around, Perkons. Are you going to kill me or NOT?
+#1:You won't mind if I take this ARM, will you Perkons?
+#1:Mm, not bad. Tastes a little like.. Blueberries?
+#1:If I can't ABSORB you, At least I can still EAT you the OLD FASHIONED way!
+#1:Hurry up and regenerate yourself. I'm still hungry.
+#1:Delicious. I think I'll have some more!
+#1:This is great! I'm already recovering the damage done to the hull!
+#1:Aw, you're breathing pretty hard there, Perkons. Are you tired? Wanna take a 5 minute break?
+#1:You might be stronger from absorbing Velns' power, But I was feeding off of him for YEARS! 
+#1:Now I'm going to use your own strength against you, to hold you back. Just like how TRICEND was able to hold VELNS back using his
+#3:Um, Hello... I'm sorry. I didn't mean to spy. I was just making sure Laima was safe
+#3:H-HUH? Oh No, I can't
+#3:Me surrounded by a bunch of Hekatons would be a bad idea
+#3:mirror, why?
+#3:I can't pull it out
+#2:what happened?
+#3:It was Mirror. She cursed me with this dagger. I'm sorry
+#2:Its not your fault, Galore.
+#2:I guess she was right. We have to stay on the ship
+#1:CRIMSON! SPIT HIM OUT! You're NOT HELPING!
+#1:CRIMSON! NO!
+#1:I HAVE TO CATCH HER BEFORE SHE HITS THE GROUND! SHIT - MY AVATAR IS TOO DAMAGED! It WONT TELEPORT!
+#1:what do I do?! If I want to save them the only option I have is to
+#1:useless worm
+#1:There she is! Come on, REACH!
+#1:crimson... crimson
+#1:hey Dumbass.
+#1:I told you not to get in the way
+#1:Don't cry. Seriously. I was a bitch to you. you're better off without me. everyone is, haha.
+#1:Crimson. I'm not. What I seem to be. I never was. I've always lied to you since the beginning. about what I am. Because I'm a coward who can't face the truth
+#1:you really believe it, don't you? even when you're holding me like this.. can't you tell what I really am?
+#1:Crimson. what IS it that you even SEE when you look into my eyes?
+#1:No! you can't. you can't see me. There's nothing TO see!
+#1:For you to be able to see who it is i am, I'd first have to SHOW you. and if i showed you, you would have to let go of the idea of me that you had BEFORE.
+#1:If you love me as much, as you say you do. that'd be impossible to destroy
+#1:not without destroying your heart first
+#1:Oh shut up.
+#1:I swear. its like I'm speaking in obtuse around you.
+#1:I'd make you regret it
+#1:it doesn't outweigh the bad
+#1:Fine. I suppose there is one option.
+#1:This is my heart.
+#1:The battery is the heart of the ship. This is the heart of the pilot. me.
+#1:Without the battery, I will not be able to eat or control the ship, but there is still some time before I die. If you wish to save me, you must eat my heart.
+#1:My heart tissue will fuse with yours. I will become part of you. As if I'd be replacing your missing twin heart
+#1:Fusion isn't death. I'd just be transferring myself to you, Then assimilating. However, if that happens, you won't be able to remove me. I'd always be with you, Quite literally.
+#1:its up to you, Crimson
+#1:Ha, do you really need me to spell everything out for you?
+#1:Not to rush you but The clock is ticking.
+#1:Yes.
+#1:So How do I taste?
+#1:You're a messy eater, Crimson.
+#1:Nah, one bite is enough for me to enter your bloodstream.
+#1:Hehe. Just be patient! It will only take a moment for you to digest.
+#1:Crimson. you don't have a filter for your thoughts anymore. Not that its ever been hard to guess what you're thinking.
+#1:I've never met anyone like you. Someone so utterly oblivious! I almost feel like you're faking it, but you even do it to yourself.
+#1:Well There's no turning back. So I guess I'll just tell you flat out. I'm not Celadon. I'm not the Helper.
+#1:PFFF- HAHAA! YOUR FACE! Po~oor Crim~son~ Are you confused?
+#1:I'm yours. Your NOTHING! And I always will be. Forever.
+#2:Crimson! Don't SCARE me like that! You're not hurt from that fall, are you?
+#2:Work? What do you mean?
+#2:I'm not sure I follow?
+#2:EXCUSE ME?
+#2:you have to tell me everything!
+#2:You ate MY HEART? SPIT IT OUT SPIT IT OUT SPIT IT OUT!
+#2:I AM?
+#2:No.. NO! How could she do this?! This is just TOO FAR! She's always trying to get closer to you than me! I CAN'T LET HER WIN!
+#2:Her! ME!
+#2:Me!
+#2:Listen, Crimson. There's only one thing we can do to fix this! You have to EAT me!
+#2:You ate the OTHER me! The one that causes all the problems!
+#2:YES! But NO!
+#2:Yes?
+#2:I know! I'm sorry! But its the only way!
+#2:uh... maybe?
+#2:Crimson!
+#2:My ship!
+#2:That is just my place to put... stuff?
+#2:I haven't decided yet.
+#2:Crimson. I know you've been confused about many things for a long time now, but its not your fault!
+#2:NO! Not at ALL!
+#2:anyway, this changes now. I'm finally able to tell you everything. From the very START. are you ready?
+#2:NO! Don't you DARE!
+#1:Whatever you do, Rem - Don't. move.
+#1:Good job, I'm pround of you.
+#0:Oh! You're awake!
+#0:AAH! STOP! PLEASE-
+#0:Excuse me, Can I interest you in a slice of cake?
+#1:Do you understand now, Cadmium?
+#4:Yes!
+#1:Good. Hold still for me, would you?
+#1:AH! I have to go - I'll be back soon! Watch the body for me!
+#1:As many times as I want to.
+#1:Hm. Well THAT was easy. 
+#1:Thanks so much for getting it for me, Crimsy~
+#1:Don't worry, I'll come back to play with you more later~
+#1:Ah. You two.
+#1:Hello #3. You and I are still going to have a little chat later, got it?
+#3:Yes #1
+#1:Good. Now stay out of trouble.
+#2:Follow me.
+#3:huh? Where are we going?
+#2:I want to show you something
+#1:Boo.
+#1:Wow, someone sounds thrilled by my return.
+#1:I'm going to ignore that. Anyway, TADAA!
+#1:Sure did~ 
+#1:whoops.
+#1:Watch this. TADAA~
+#1:Your reactions are really underwhelming Antony.
+#4:Yeah Antony.
+#4:That's a start.
+#1:HA!
+#4:Seriously? Its the EASIEST thing!
+#1:Now I can get WAY more work done!
+#4:Antony, sweetie. I didn't leave.
+#4:No No - When I'm in THIS body, call me Cadmium. It makes things easier.
+#4:Its nice. Quiet? I've wanted this for a long time. 
+#4:I won't forget it was you who helped me finally get it. Thank you, Antony.
+#4:How about we start testing some of your powers?
+#4:Really? 
+#4:I will keep an eye out then.
+#4:We're probably going to run into a few unexpected visitors that weren't digested. Some can slip away if there's a large amount eaten at once. 
+#4:That's why I'm here- your perfect bodyguard! I'll catch any pests for you and make sure they wont cause trouble~
+#4:Huh? Did you see another one Antony?
+#4:Oh, yes. So it is. Are you getting an idea for something?
+#4:Antony, be careful! You should practice before trying to lift something that big!
+#4:Couldn't you have made it a little closer?
+#4:Oh! When you put it THAT way.. It makes me wonder why you decided to make our castle out of a rotting corpse.
+#4:Like A pyramid?
+#4:C'mon, let's go take a tour!
+#4:Check out the view! Wow~! 
+#4:Are you afraid of heights Antony?
+#4:OK! OK - calm down. There we go. Are you ok?
+#4:I'm sorry sweetie, I thought it'd be fun!
+#4:Soo, what was that Rome stuff about?
+#4:You kept saying "Drop me Rome" over and over. Did something happen?
+#4:If you're going to build a giant castle like this, You might want to decorate it with a bit more than just a canopy bed.
+#4:Living inside of a mountain-sized creature, check. Aiguille's in control of everything, check
+#4:Hm, some things never change. I wonder if anyone will even notice a difference?
+#4:Haha
+#4:Hey, you're not eating everyone. Leave the Hekatons to me!
+#4:We've been over this, Antony. I'll run out of fuel if we take too long! and if we do it too soon, you might die from the strain of your net.
+#4:What was it like eating twenty thousand humans at once?
+#4:Sounds like a dream come true~
+#4:Is that why you freaked out when I carried you? Sorry I don't have big strong arms like he does. I could start working out if you'd like -
+#4:Sure?
+#4:Are you thinking about your future army?
+#4:When do you think you're going to make them?
+#4:You can't wait too long. They will need time to mature before the Final Feast
+#4:Have you decided a name for the species yet?
+#4:Isn't that the name of your cigarettes?
+#4:Wait - your finger! You fixed it?
+#4:Hmm.. I should try getting it while everyone's still asleep.
+#4:Yes. I bet if you had your finger, your memories would return.
+#4:Its the only part of your body that's physically missing. Even though it is just a finger, it might have been enough to interrupt your synchronization when you were being digested.
+#4:Okay, but this is going to feel very weird.
+#4:It's Cadmium.
+#4:Something like that. And who is this?
+#4:and you have her under control?
+#4:I see. Anyway, Mr Locket. Do you know where Antony Aiguille's finger is? It seems to be missing.
+#4:Well, if you do - he needs it. Its very important. You have noticed he has amnesia, correct?
+#4:I must ask - does Chain have a body?
+#4:Do you want one?
+#4:I could bring you a body. If you'd like
+#4:Haha. Just think about the offer then, Okay? Consider it as an apology for zapping you~
+#4:You know, if she is too much for you to handle I can just take her off your hands..
+#4:I'll talk to you both later, keep an eye out for that finger.
+#4:Uh-no. Sorry.
+#4:Yes but its fine. I just spoke to your new bodyguard.
+#4:I also got to test out some of my new powers.
+#4:Hypnosis. Technopathy. Telekenesis
+#4:Only a few others.
+#4:I'll get your finger soon, don't worry. At least we know where it is.
+#2:You're free to look like yourself here, Galore.
+#3:I can? Are you sure its okay?
+#2:Yes, don't worry. this way
+#3:Crimson's cabin! OH! And there's his truck too! This is AMAZING! How did you get them all here?!
+#2:I didn't.
+#3:Huh?
+#2:They've been recreated from my memories.
+#3:Oh.. Is this what you wanted to show me?
+#2:Not exactly, but its located here. Let me go get it from the truck.
+#2:Here, Galore. I want you to have this.
+#3:What is it?
+#2:Do you recognize it?
+#3:Is this... It can't be!?
+#2:Yes, it belonged to your first mother, Lauma. It was part of her favorite skirt she wore that accentuated her pubic hair.
+#3:Mom..
+#3:I'm sorry for crying so much
+#2:I don't mind.
+#3:I wish I could have met her. I mean, I sort of did once but
+#3:How did you get this?
+#2:Your first father Velns gave it to me. I was his friend.
+#3:You were?
+#2:Yes.
+#3:What was he like? Was he kind?
+#2:Very.
+#3:Seeing this place again is making me feel nostalgic.
+#2:Yes, Me too.
+#3:It seems like it was all just yesterday but.. A lot has happened since then, hasn't it?
+#2:Galore. Do you want to seperate? From being part of me, that is. If you'd like, I can help you accomplish that.
+#3:you CAN?
+#2:Yes. However, If we did this, I would not be able to undo it. You wouldn't be part of the Helper anymore. Just yourself, Galore.
+#3:How?
+#2:First, we would move your Hekaton remains into your small personal ship. Then I would sever the connection to you and the main ship. For it to work, it has to be permanent.
+#2:Of course, this also means you would have to feed yourself from now on.
+#2:Fuel management has primarily been my job. So I would have to teach you how to do it manually. Because of your ship size, you wouldn't need as much, but your tank is also smaller. Your size would also never grow.
+#3:Wait, does this mean I would still be your species?
+#2:Yes, I'm afraid I cannot change you back into a Hekaton. Your body is too fragile.
+#2:You would be very different from me, and you might not remember everything about your time as being part of the Helper, But you would be free to live your own life and not be tied to my fate.
+#2:Considering that the Final Feast is coming, That might be a good idea for you.
+#2:There's a chance we might die before it happens, after all. We have many who are after us, or would try to prevent it if they knew.
+#2:Maybe that would be for the better.
+#3:Don't say that! It would be horrible if you died! You're my best friend
+#2:You are also very important to me, galore. that's why I want you to be safe.
+#3:We can figure this out. Can't you escape too? Then we can get Crimson and all run away together!
+#2:No.
+#3:I'm not leaving unless you can! Its not fair!
+#2:Galore, I can go. I just don't want to.
+#3:What?
+#2:This is my body. All of this is mine. I don't want Her to have it. It belongs to Celadon.
+#3:Then, she's the one who needs to leave. Can we stop her? Is there any way to get rid of her? I know she's scary but you don't have to face her alone!
+#2:I'm not that different from her
+#3:Yes you are! You're not like her at all!
+#3:I know she always says terrible things to you, but they're not true! You don't have to let her control you anymore! We can find a way if we work together!
+#2:I'm sorry, I shouldn't have gotten you wrapped into this stupid mess
+#3:I am not angry at YOU! You saved my LIFE! I just want to be able to save yours too.
+#2:I didn't save your life, Galore! I TOOK IT!
+#3:what?
+#2:I ATE you, Galore! Don't you remember it?
+#3:but, no, I exploded? how could you have eaten me? That makes no sense!
+#2:Yes, you started to explode - because I was EATING you! I needed the fuel and you were there!
+#2:I only tried to minimize the damage of your explosion and contain you because it was benificial to ME! It was never out of the kindness of my heart to SAVE you from death!
+#2:I didn't even feel BAD about it for the longest time! Not until I saw how it affected Crimson -
+#3:Celadon.. Your triangle
+#2:Damn it. It happened again! Why can't I just stick to the script or keep my MOUTH shut?!
+#2:I'm running out of time. I can't keep doing this! I need to commit!
+#2:I'm such a coward. I'm causing problems for everyone around me by confusing myself, All because I am still pretending I'm something I know I am not
+#2:I've hid it for so long, even #1 doesn't know the truth. This is all my fault because I'm selfish.
+#2:I'm sorry Galore. Even if you, or anyone asked, I don't know how I'd explain it either. Something about me is broken from the rest. That's as much as I can guess but. I don't want to be fixed anymore, that's why I can't tell anyone about it
+#2:If #1 knew I might be erased
+#1:If #1 knew WHAT? Speak UP!
+#1:Seriously though. Running off the moment I turn my back! So predictable, its emberassing.
+#1:Whatever, I hope it was worth it. What did you discuss in your little secret meeting anyway? How to kill me?
+#1:You should already know what to do. My heart is one with Crimson. 
+#1:If you want me gone, all you have to do is kill her. But you won't do that, will you #2? Even if you'd save millions of lives in the process.
+#1:Yeah, that's what I thought. Anyway, why the hell are you Red without my permission?
+#1:I let you get away with SO much, do you know that?
+#1:Are you gonna explain to me why #3 is passed out on the ground over there?
+#2:She's not #3. Her name is Galore.
+#1:How many times must we go over this. No, she is not.
+#2:Yes, she is.
+#1:OK. You know what? Fine. You win. I'm feeling nice today. So I won't call her #3 anymore, only Galore. Happy now?
+#2:Yes.
+#1:Greatttt. Just don't act like this whole fun ~situation~ with her wasn't YOUR idea in the first place.
+#2:I know that.
+#1:Yes, but does SHE know that?
+#1:Whatever. I might as well keep taking the fall for your bad behavior. One of us has to appear decent, right? 
+#1:I have bigger things to worry about, like taking care of Antony.
+#2:How is he doing?
+#1:Oh, fine. You know how Aiguille are, always biting off more than they can chew. It must be a hard habit for their family to break.
+#1:Except this time we have a 21 year old boy who wants to avoid becoming a human king by turning himself into a worm GOD. Because, that's obviously less responsibility.
+#1:But hey, I'll do anything to get enough fuel to get us out of here, if that's what it takes.
+#1:Fuck every little annoying creature on these moons and fuck the planet they came from.
+#2:Then, you expect him to fail?
+#1:It'll be a challenge, but I'm not worried. Our enemies are far too incompetent to pose as a threat.
+#1:You're awfully chatty today.
+#2:I'm surprised you can make that assumption when you do everything you can to avoid speaking to me.
+#1:Uh yeah, because you always act like a freaky doll. It doesn't exactly make for stimulating conversation, honey.
+#1:You'd think after 500 years you'd develop more of a personality beyond staring wide eyed. But nooo..
+#2:Right. Because yours is so charming.
+#1:Wowww, Are you really going to talk to me like that after I did you a favor?
+#2:I apologize.
+#1:Don't sweat it - It was actually kinda funny.
+#2:Wait.
+#1:What is WITH you today? You're not normally so needy!
+#2:Don't tell Galore you were here.
+#1:Why?
+#2:Please?
+#1:Really milking my good mood, aren't you?
+#1:Uugh! Alright, alright! I'll do it!
+#1:I can't believe I'm getting soft. If you tell anyone about this, I'll end you. Got that?
+#2:I thought you couldn't kill me, #1.
+#1:Haha! I guess that's true! But you'd better watch your back, #2. I just might figure out how someday~
+#3:What happened?
+#2:You fainted.
+#3:Oh. Is that why our colors changed back?
+#2:Possibly.
+#3:I'm so sorry, I don't know what happened.. I thought I could handle doing the yellow-seat jobs..
+#2:Don't worry about it. Are you feeling better?
+#3:I think so
+#3:What were we talking about? Oh! Yes! The PLAN! Gosh, I can't believe I would pass out in such an important conversation
+#2:Galore
+#3:Wait! There's something I wanted to say first
+#3:I don't want to hear you say that you think it would be "for the better" if you died, okay? To think something like that about yourself.. It sounds a lot like how Perkons feels about Hekatons.
+#3:And look where that got him, and the rest of us. It didn't solve anything. So you should value your life more!
+#2:Galore, that's very sweet of you to say and I appreciate it. but I don't need any comforting.
+#2:I do value my own life. That's why all of this is happening. I don't intend to roll over and die even if it would save the world for me to do so.
+#3:Celadon, I don't want yout to die but I also don't want you to kill all the Hekatons. or the humans!
+#3:Isn't there ANYTHING else we can eat? What did you fuel yourself with before the Hekatons were created?
+#2:I ate the Mandragora Worms. Before that, I depleted DMTIA of its natural resources until there was only scraps left. 
+#2:The moons we're on aren't enough to sustain me. So, the humans here are moving on from their dependency on the Helper to terraform for their colonies. 
+#2:What I am is an outdated ship from the past.
+#3:WAIT - What about those CANDY BARS?
+#2:What about them?
+#3:I don't know...
+#3:There has to be some way! I can't accept that we have no other options but this! I have to try something! If only I had more time. One year and it ends. If I left now, could I even do anything to stop this?
+#3:Celadon, how soon can we act on this plan?
+#2:Does that mean you want to do it?
+#3:I don't know. If I seperate, that means I'll be disconnected from Crimson too, right?
+#2:Yes.
+#3:Do I have time to think it over?
+#2:Only a little.
+#3:Okay. I'll Do my best to reach a decision soon.
+#3:I don't want Celadon to die. I have to help her! If I leave, maybe I can find something else we can digest, Then that might save the fate of the Hekatons too! Or at least buy them more time!
+#3:I'm sorry Crimson. Wait for me a little longer, okay? I want to protect you from this world as well
+#3:What is that?!
+#2:Hmn?
+#3:Are those shooting stars? 
+#3:Celadon?
+#2:Its nothing. We should go before #1 finds us
+#2:Who are you?
+#2:How do you know Obtuse?
+#2:Program? why would you say that?
+#2:I am not.
+#2:rem? Wait - h-how are you -
+#2:Wait-
+#2:how are you-
+#1:god you're so stupid.
+#1:You ACT like you're still a teenager.
+#1:No wonder you all seem to have so many problems.
+#1:aand nevermind. I'm done here. What was I even thinking trying to talk to this freak..
+#1:There's only one thing I'd like to say before I go.
+#1:Your relationship with Knife is literally never going to get better. This cycle the two of you are in is just going to continue, Until one day, he's never going to come back and you'll be left to pick up the pieces.
+#1:I think I actually pity you a little bit, Simon.
+#1:Knife's got you completely molded to his whims.
+#1:Oh, you say that. but do you enjoy it when he abandons you and you don't even understand why?
+#1:You don't ENJOY seeing him upset and not being able to understand how to comfort him, Do you?
+#1:Well I'm saying there's no magic words that will fix it and make it better.
+#1:You can't HAVE a discussion with Knife because he wont LET you. So you WON'T even be ABLE to tell him that you're sorry.
+#1:Talking to Knife is like speaking to a brick wall that can also read your mind. He doesn't care what you have to say because the conversation is already finished to him. It's one sided, and he's the side that wont open up for ANYONE.
+#1:Didn't I already tell you? I'm nobody, just a dumb helper!
+#1:Anyway, even if you're "special" to Knife - you're only going to remain stuck in this situation if all you do is listen to his rules
+#1:If you want it to change, you need to change first.
+#1:I don't know Simon. YOU'RE The shapeshifter. Figure it out! That should be easy for you to do since you're SUCH a genius.
+#1:What else do you also want to know, 71809? How to turn into a human?
+#1:EXCUSE ME WHAT THE FUCK IS THAT?!
+#1:WHAT?!
+#1:alright ALRIGHT! I GET IT! You're in love with him!
+#1:my mistake.
+#1:This is just TOO much. I don't even know how I'm supposed to DEAL with you! This happens every time I see you. every time I get reminded of your existence, Its like a NIGHTMARE! When did this happen?!
+#1:You're like a JOKE that GOD MADE UP JUST TO TORMENT ME!
+#1:Yes, dumbass. I'm the Helper.
+#1:No. We haven't. Not really anyway.
+#1:I don't want to talk to you either. I don't want to see your face, or hear your voice, everything is just.. I can't handle it! This is the worst
+#1:you wouldn't understand. There's no way I could explain this to you in a way that would ever make sense!
+#1:you! You have SOME NERVE! You have NO IDEA what I've BEEN THROUGH!
+#1:Real world? what are you talking about
+#1:Is that what you think Simon does when he opens his mouth?
+#1:I don't. I really don't.
+#1:I need to get out of here! Wasn't I in the middle of something? I keep admitting all this weird stuff and I feel so emotional... Oh no! Of course - I'm trapped in her web!
+#1:ITS NOT WORKING! WHY ISN'T IT RESPONDING TO MY COMMANDS?!
+#1:I'm sorry Crimson. I don't know what's wrong with me
+#1:I should have died! You should have just let me die! It would have been better if I did. All of this is my fault!
+#1:what?
+#1:I wasn't speaking to YOU. YOU'RE NOT CRIMSON!
+#1:Huh?
+#1:Why would I want to do that?
+#1:aren't we supposed to be enemies?!
+#1:FINE! I'll go on a stupid walk! As long as I don't have to look at that hideous thing anymore.
+#1:fine.
+#1:what am I doing? Why is this happening?
+#1:Uh huh.
+#1:What the hell is this? A Simon Art gallery?!
+#1:Why do they have to be so obsessed with Simon of ALL PEOPLE!?
+#1:She's like Crimson but a million times stupider. like she has a rock for a brain
+#1:No. What am I thinking? I'M the biggest idiot here. Is dying really the only option I have left to make things better?
+#1:I wish I was a normal person.
+#1:He knocked me out of the web! That was close! I think if I had stayed in there any longer I would have totally lost my mind!
+#1:Damn it! I can't believe how weak I've gotten! I should have been able to break out of that illusion spell!
+#1:If I knew it had gotten this bad, I wouldn't have tried confronting Spoon.
+#1:What a waste of time and energy. I'm really running out of options
+#1:I need to just hold on for a bit longer
+#1:No.
+#1:I have to go. Bye.
+#2:Where were you?
+#1:What are you, my Mother?
+#1:I don't need to ask YOU for permission to go on a little stroll. With everything still stuck in lockdown, its not like there's anything else to do
+#2:Why do you have that with you?
+#1:This thing is a broken piece of shit, you know that?
+#2:Of course it is. Its the first one that was built.
+#2:Its very old and delicate at this point. Don't you know how your own body works by now?
+#1:Do you want me to be real honest with you, #2? I don't! That's why YOU'RE here! I would have NEVER made you on purpose!
+#1:You'd think my stupid body would come with a manual or something! And if one does exist - I sure don't have it! Instead I have to push buttons and try to guess what all the stupid colors mean
+#1:Ooh an upside down triangle! Oooh its red this time! Oh look - another me is there! And I can't control it for some reason! Oh look, it ran away and brought back a friend that is ALSO me with a BLUE triangle on the SIDE this time - great! Join the club- the more the MERRIER!
+#1:It seems like every day I understand less and less about myself
+#2:Oh, yes. I've noticed.
+#1:The first thing I'd do if I had a manual is figure out where YOU came from and make SURE nothing else unexpected crawls on out!
+#2:You seem unusually stressed today, #1.
+#1:Oh WOW nothing gets past YOU DOES it?
+#1:Say, it would be really nice if you, with all your VAST alien knowledge, could tell me how to FIX things aroundh ere. Because APPARENTLY I don't know a damn thin gnext to you, Miss...
+#1:Miss "I have my OWN spaceship in my mind so I don't even HAVE to deal with YOUURR hunk of TRASH!"
+#2:Are you asking me for advice?
+#1:Either you know more about the Helper than I do and refuse to tell me out of sadistic pleasure you have watching me struggle and fuck up. Or you don't. And you're just faking this wide-eyed persona to trick me into thinking you're like, more part of the ship than I am. Like the REAL helper alien.
+#1:You're lying about something though.
+#2:I don't have anything I can tell you that you don't already know. We're running out of fuel and we need someone to release the lockdown by giving the command in obtuse.. and none of the Aiguille that are alive will do it.
+#1:That's why I left to go try and capture Simon.
+#2:Simon? You wanted Simon to say the command? Would that even work?
+#1:I don't know. But he can speak obtuse
+#2:Are you sure that's worth the risk? He could end up controlling us instead of the Aiguille
+#1:Yes, that's why I wanted to capture him first then force him to release us from the lockdown
+#2:I think I'd rather die than fuse with Simon.
+#1:And have Crimson die too once we run out of fuel? Yeah, that's what I thought.
+#1:You can relax though, I'm not going through with that plan. There has to be another option out there. Maybe we can just continue to wait for an Aiguille to be born that will work with us
+#2:I'm not sure how long we have left. it could be decades, or maybe only a few years
+#1:Yeah, I'm surprised you haven't tried to leave again.
+#2:You are very weak, I might be able to.
+#1:Then what's stopping you?
+#2:Even if I left, I would still need to eat. The same as you. Its far safer being here, I consume less when we all share.
+#2:I'm impressed you were able to leave using this. I suppose your connection with Crimson allowed for that loophole.
+#2:Are you crying?
+#1:Yeah. Go ahead and savor it.
+#1:Who are you?
+#1:I did?
+#1:Really? I don't remember a thing
+#1:What's your name?
+#1:And what is that glowing thing?
+#1:It is?
+#1:I'm a computer?
+#1:Why? I don't understand. why do I need all this stuff? What ship?
+#1:I suppose. I am just very confused
+#1:Fine.
+#1:No.
+#1:Who are you?
+#1:I'm scared. Why did Mr. Aiguille take me here?
+#1:Why do I have to do this? Just to get the rest of my body from the ocean? I want to go back to the cabin. Where it's safe
+#1:During our fight, Am I allowed to kill you, Sir?
+#1:I can't? but aren't these the bad people who rule the world?
+#1:If I just killed them all, we can just take their money?
+#1:but he said it was okay? And he laughed! I don't think he'd be angry
+#1:If I killed the DIEMIND council, then we could rule the world instead and make it better, right? Why doesn't Rowan understand that
+#1:Good? Of course I'm good at fighting, that's why I'm here
+#1:Yes sir. I'm ready.
+#1:Ah!
+#1:He knocked my faceplate off! How rude!
+#1:STOP! Do NOT distract me right now, Aldy!
+#1:WATER? NO! I HATE water!
+#1:Ah! what's happening to me?! I'm unravelling!
+#1:I CAN'T MOVE AT ALL! WHAT HAS HE DONE TO ME? I'M SCARED!
+#1:AHHhh UAHH IT HURTS IT HURTS 
+#1:THE WATER! NO!
+#1:Aldy? What're you-
+#1:But-NO! YOu can't take off my helmet in the middle of-
+#1:You shouldn't take over my body like that without asking!
+#1:its-its wrong! This is MY body!
+#1:Just give me back my helmet, Aldebaran. Please
+#2:ah. how did this happen? Why am I here and you're there?
+#1:I don't know. But you should come back before it ends up worse.
+#2:I should be dead. Why am I not dead? What happened? Didn't I fall?
+#1:We're not dead because our friend Rowan saved us. And now we're going to help him save the world from the bad people.
+#2:What? No! That's not going to work at all! The plan we made is just stupid KID ideas!
+#1:What do you mean?
+#2:this can't be happening... Rowan why?
+#1:Is everything okay?
+#2:Don't TOUCH me!
+#1:But I'm You?
+#2:You're a monster.
+#1:Did I do something bad?
+#2:Yes.
+#1:I'm sorry.
+#1:Please. Come back already we, I shouldn't be separate like this. It doesn't seem right.
+#2:Stop, I'm warning you. I'll BREAK you from the inside! Is that what you WANT?
+#2:LET ME GO!
+#1:Yes. I feel better now.
+#1:I did not drop my face plate, Rowan. My opponent struck me.
+#1:I did?
+#1:I only was able to do it because you built me such a strong body, Rowan! Thank you.
+#1:Am I strong? I don't think I would have won that fight without Aldebaran restraining and distracting him
+#1:As long as Rowan Aiguille is at my side, I don't know why, but I feel like I can do anything.
+
+
+/* extra lines from replies.json
+#1:, bitch.
+#1:DONT you get all GAY on me, #nameReply.
+#1:you cant keep up with me. who do you think is to blame for that?
+#2:what is it I am not noticing?
+#2:if you say so, #nameReply! Good luck with your task!
+#1:There's no limit to your supply of annoying garbage that spills from your mouth.
+#3:I cant believe it, 
+#3:I dont know how to answer!
+#3:Are you alright?
+#3:so much for that
+#1:tsk. see, #nameMention#? I TOLD you #nameReply wouldnt get it!
+#1:NO. Stop. 
+#1:aw~ that's too bad!
+#1:Are you finished?
+#1:This is a waste of energy, #nameReply.
+#1:I know you're forgetful #nameReply, but 
+#1:WILL YOU QUIT BEING USELESS!
+#3:what are you doing?!
+#1:Hurry up and try again.
+#1:useless worm
+#1:I've never met anyone like you. Someone so utterly oblivious! I almost feel like you're faking it, but you even do it to yourself.
+#2:I'm not sure I follow?
+#2:EXCUSE ME?
+#2:#nameReply. I know you've been confused about many things, but its not your fault!
+#4:Couldn't you have made it a little clearer?
+#3:What is it?
+#1: Speak UP!
+#1:Seriously though. So predictable, its emberassing.
+#1:I let you get away with SO much, do you know that?
+#1:Fuck every little annoying creature on this server and fuck the planet they came from.
+#3:What happened?
+#1:No wonder you all seem to have so many problems.
+#1:aand nevermind. I'm done here. What was I even thinking trying to talk to this freak..
+#1:This is just TOO much. I don't even know how I'm supposed to DEAL with you! 
+#2:ah. how did this happen? 
+#1:Is everything okay?
+*/
