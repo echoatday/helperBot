@@ -1,7 +1,7 @@
 const { Client, Intents, MessageEmbed } = require('discord.js');
-const { joinVoiceChannel } = require('@discordjs/voice');
+// const { joinVoiceChannel } = require('@discordjs/voice');
 const replies = require('./replies.json');
-const config = require('./config.json');
+require('dotenv').config();
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
 client.on('ready', () => {
@@ -11,6 +11,7 @@ client.on('ready', () => {
 function randomElement(array) {
 	return array[Math.floor(Math.random() * array.length)]
 }
+
 // #formatting, #helpCommands, #nameReply, #messageError
 function errorMessage(theMessage, formatting) {
 	return (
@@ -145,4 +146,4 @@ client.on('messageCreate', message => {
 	theMessage = '';
 });
 
-client.login(config.token);
+client.login(process.env.TOKEN);
