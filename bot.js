@@ -42,7 +42,7 @@ function unixTimer(theMessage) {
 	var theDate = new Date(theMessage);
 	unixTime = (theDate.getTime() / 1000).toFixed(0);
 	if(unixTime === 'NaN') {
-		formatting = 'may 01 2021 10:30 pm gmt';
+		formatting = '^time may 01 2021 10:30 pm gmt';
 		timeEmbed.color = '#ff0000';
 		timeEmbed.title = randomElement(replies.errorStartText);
 		//timeEmbed.description = 'Valid Format: ^time may 01 2021 10:30 pm est';
@@ -127,6 +127,7 @@ function rollDice(theMessage) {
 client.on('messageCreate', message => {
 	theMessage = message.content;
 	user = message.author;
+
 	if(theMessage.startsWith('^time')) {
 		message.reply(unixTimer(theMessage));
 	}
@@ -140,7 +141,7 @@ client.on('messageCreate', message => {
 	}
 	else if(theMessage.startsWith('^leave')) {
 	}*/
-	else if(theMessage.startsWith('^')) {
+	else if(theMessage === '^') {
 		message.reply(helpMessage(user,replies.errorHelpText))
 	}
 	theMessage = '';
